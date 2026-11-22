@@ -1,0 +1,1633 @@
+Species,Growth_Stage,Parameter,Count,Lower_Range,Median,Upper_Range
+Arugula,Germination,pH,108,5.59,5.94,6.31
+Arugula,Germination,EC_mS_cm,108,0.64,0.78,0.92
+Arugula,Germination,TDS_ppm,108,318.75,390.0,458.5
+Arugula,Germination,Water_Temp_C,108,16.6,17.95,18.92
+Arugula,Germination,Air_Temp_C,108,16.68,20.0,21.62
+Arugula,Germination,Relative_Humidity_pct,108,57.08,62.5,67.6
+Arugula,Germination,PPFD_umol_m2_s,108,209.75,246.0,284.25
+Arugula,Germination,DLI_mol_m2_day,108,10.6,12.35,14.22
+Arugula,Germination,Photoperiod_h,108,14.0,14.0,14.0
+Arugula,Germination,CO2_ppm,108,421.75,463.5,787.25
+Arugula,Germination,Root_Zone_Temp_C,108,16.4,17.8,19.0
+Arugula,Germination,N_mg_L,108,52.02,64.25,78.22
+Arugula,Germination,P_mg_L,108,14.0,17.15,20.65
+Arugula,Germination,K_mg_L,108,68.72,82.35,102.72
+Arugula,Germination,Ca_mg_L,108,52.55,65.05,78.53
+Arugula,Germination,Mg_mg_L,108,15.92,19.0,23.42
+Arugula,Harvest,pH,109,5.63,5.94,6.32
+Arugula,Harvest,EC_mS_cm,109,1.27,1.53,1.85
+Arugula,Harvest,TDS_ppm,109,638.0,766.0,923.0
+Arugula,Harvest,Water_Temp_C,109,16.6,17.9,19.1
+Arugula,Harvest,Air_Temp_C,109,16.6,19.8,21.7
+Arugula,Harvest,Relative_Humidity_pct,109,56.3,62.6,67.6
+Arugula,Harvest,PPFD_umol_m2_s,109,209.0,244.0,282.0
+Arugula,Harvest,DLI_mol_m2_day,109,10.5,12.3,14.2
+Arugula,Harvest,Photoperiod_h,109,14.0,14.0,14.0
+Arugula,Harvest,CO2_ppm,109,421.0,459.0,787.0
+Arugula,Harvest,Root_Zone_Temp_C,109,16.4,17.9,19.2
+Arugula,Harvest,N_mg_L,109,105.1,127.5,154.7
+Arugula,Harvest,P_mg_L,109,27.7,33.7,40.8
+Arugula,Harvest,K_mg_L,109,140.4,167.4,202.5
+Arugula,Harvest,Ca_mg_L,109,104.4,128.8,153.1
+Arugula,Harvest,Mg_mg_L,109,30.9,38.1,46.7
+Arugula,Maturation,pH,303,5.61,5.93,6.32
+Arugula,Maturation,EC_mS_cm,303,1.25,1.52,1.85
+Arugula,Maturation,TDS_ppm,303,625.5,762.0,923.0
+Arugula,Maturation,Water_Temp_C,303,16.5,17.9,19.05
+Arugula,Maturation,Air_Temp_C,303,16.5,19.9,21.75
+Arugula,Maturation,Relative_Humidity_pct,303,55.2,62.8,68.0
+Arugula,Maturation,PPFD_umol_m2_s,303,206.5,243.0,285.0
+Arugula,Maturation,DLI_mol_m2_day,303,10.45,12.2,14.3
+Arugula,Maturation,Photoperiod_h,303,14.0,14.0,14.0
+Arugula,Maturation,CO2_ppm,303,421.0,450.0,777.0
+Arugula,Maturation,Root_Zone_Temp_C,303,16.45,17.9,19.1
+Arugula,Maturation,N_mg_L,303,102.95,128.1,156.25
+Arugula,Maturation,P_mg_L,303,27.6,33.8,41.2
+Arugula,Maturation,K_mg_L,303,134.7,165.3,202.8
+Arugula,Maturation,Ca_mg_L,303,103.65,125.9,154.65
+Arugula,Maturation,Mg_mg_L,303,31.15,37.8,46.15
+Arugula,Seedling,pH,279,5.54,5.93,6.32
+Arugula,Seedling,EC_mS_cm,279,0.87,1.06,1.31
+Arugula,Seedling,TDS_ppm,279,437.0,532.0,656.0
+Arugula,Seedling,Water_Temp_C,279,16.35,17.7,19.0
+Arugula,Seedling,Air_Temp_C,279,16.65,20.1,22.35
+Arugula,Seedling,Relative_Humidity_pct,279,54.55,61.8,68.05
+Arugula,Seedling,PPFD_umol_m2_s,279,207.0,246.0,286.0
+Arugula,Seedling,DLI_mol_m2_day,279,10.5,12.4,14.4
+Arugula,Seedling,Photoperiod_h,279,14.0,14.0,14.0
+Arugula,Seedling,CO2_ppm,279,421.0,447.0,785.5
+Arugula,Seedling,Root_Zone_Temp_C,279,16.4,17.8,19.1
+Arugula,Seedling,N_mg_L,279,70.9,88.5,108.15
+Arugula,Seedling,P_mg_L,279,19.3,23.5,29.2
+Arugula,Seedling,K_mg_L,279,90.2,115.0,142.6
+Arugula,Seedling,Ca_mg_L,279,71.7,89.1,110.55
+Arugula,Seedling,Mg_mg_L,279,21.6,26.6,32.55
+Arugula,Vegetative Growth,pH,892,5.59,5.94,6.32
+Arugula,Vegetative Growth,EC_mS_cm,892,1.26,1.55,1.84
+Arugula,Vegetative Growth,TDS_ppm,892,630.0,774.0,918.0
+Arugula,Vegetative Growth,Water_Temp_C,892,16.5,18.0,19.1
+Arugula,Vegetative Growth,Air_Temp_C,892,16.6,19.9,21.7
+Arugula,Vegetative Growth,Relative_Humidity_pct,892,55.6,62.3,67.6
+Arugula,Vegetative Growth,PPFD_umol_m2_s,892,209.0,246.0,285.0
+Arugula,Vegetative Growth,DLI_mol_m2_day,892,10.5,12.3,14.3
+Arugula,Vegetative Growth,Photoperiod_h,892,14.0,14.0,14.0
+Arugula,Vegetative Growth,CO2_ppm,892,421.0,452.0,787.0
+Arugula,Vegetative Growth,Root_Zone_Temp_C,892,16.5,17.9,19.1
+Arugula,Vegetative Growth,N_mg_L,892,104.65,127.3,153.43
+Arugula,Vegetative Growth,P_mg_L,892,27.9,34.15,40.9
+Arugula,Vegetative Growth,K_mg_L,892,136.02,165.75,202.0
+Arugula,Vegetative Growth,Ca_mg_L,892,103.8,128.25,153.4
+Arugula,Vegetative Growth,Mg_mg_L,892,31.4,38.2,46.1
+Basil,Germination,pH,102,5.6,5.82,6.04
+Basil,Germination,EC_mS_cm,102,0.7,0.83,1.0
+Basil,Germination,TDS_ppm,102,350.0,417.0,501.75
+Basil,Germination,Water_Temp_C,102,20.6,22.1,23.98
+Basil,Germination,Air_Temp_C,102,20.62,23.2,25.58
+Basil,Germination,Relative_Humidity_pct,102,54.6,61.6,68.88
+Basil,Germination,PPFD_umol_m2_s,102,253.0,277.0,296.0
+Basil,Germination,DLI_mol_m2_day,102,14.52,16.0,17.08
+Basil,Germination,Photoperiod_h,102,16.0,16.0,16.0
+Basil,Germination,CO2_ppm,102,423.25,466.5,791.0
+Basil,Germination,Root_Zone_Temp_C,102,20.55,22.4,23.95
+Basil,Germination,N_mg_L,102,56.78,68.65,83.55
+Basil,Germination,P_mg_L,102,15.3,18.45,22.35
+Basil,Germination,K_mg_L,102,78.45,90.4,110.57
+Basil,Germination,Ca_mg_L,102,57.2,71.35,84.18
+Basil,Germination,Mg_mg_L,102,17.1,20.65,25.42
+Basil,Harvest,pH,104,5.58,5.82,6.01
+Basil,Harvest,EC_mS_cm,104,1.38,1.69,2.05
+Basil,Harvest,TDS_ppm,104,691.75,846.0,1024.5
+Basil,Harvest,Water_Temp_C,104,20.5,22.25,23.62
+Basil,Harvest,Air_Temp_C,104,20.5,23.1,25.55
+Basil,Harvest,Relative_Humidity_pct,104,54.25,60.5,68.5
+Basil,Harvest,PPFD_umol_m2_s,104,252.75,276.5,296.0
+Basil,Harvest,DLI_mol_m2_day,104,14.4,15.95,17.02
+Basil,Harvest,Photoperiod_h,104,16.0,16.0,16.0
+Basil,Harvest,CO2_ppm,104,423.75,469.0,791.0
+Basil,Harvest,Root_Zone_Temp_C,104,20.5,22.0,23.92
+Basil,Harvest,N_mg_L,104,115.42,138.45,169.42
+Basil,Harvest,P_mg_L,104,31.18,37.2,45.98
+Basil,Harvest,K_mg_L,104,151.05,185.25,228.68
+Basil,Harvest,Ca_mg_L,104,115.45,141.75,170.4
+Basil,Harvest,Mg_mg_L,104,34.52,42.15,51.88
+Basil,Maturation,pH,338,5.59,5.84,6.0
+Basil,Maturation,EC_mS_cm,338,1.37,1.64,2.03
+Basil,Maturation,TDS_ppm,338,684.5,821.5,1013.0
+Basil,Maturation,Water_Temp_C,338,20.6,22.1,23.8
+Basil,Maturation,Air_Temp_C,338,20.7,22.95,25.68
+Basil,Maturation,Relative_Humidity_pct,338,54.7,61.05,68.0
+Basil,Maturation,PPFD_umol_m2_s,338,253.0,276.5,296.0
+Basil,Maturation,DLI_mol_m2_day,338,14.4,16.0,17.08
+Basil,Maturation,Photoperiod_h,338,16.0,16.0,16.0
+Basil,Maturation,CO2_ppm,338,423.0,469.0,791.0
+Basil,Maturation,Root_Zone_Temp_C,338,20.6,22.3,23.88
+Basil,Maturation,N_mg_L,338,114.88,134.85,169.3
+Basil,Maturation,P_mg_L,338,29.92,36.2,44.6
+Basil,Maturation,K_mg_L,338,147.45,182.85,222.45
+Basil,Maturation,Ca_mg_L,338,113.85,138.15,167.7
+Basil,Maturation,Mg_mg_L,338,33.82,41.05,50.0
+Basil,Seedling,pH,332,5.59,5.83,6.01
+Basil,Seedling,EC_mS_cm,332,0.96,1.15,1.43
+Basil,Seedling,TDS_ppm,332,479.0,574.5,712.25
+Basil,Seedling,Water_Temp_C,332,20.5,22.1,23.9
+Basil,Seedling,Air_Temp_C,332,20.6,23.15,26.0
+Basil,Seedling,Relative_Humidity_pct,332,54.38,61.75,69.2
+Basil,Seedling,PPFD_umol_m2_s,332,252.0,277.0,296.0
+Basil,Seedling,DLI_mol_m2_day,332,14.4,16.0,17.1
+Basil,Seedling,Photoperiod_h,332,16.0,16.0,16.0
+Basil,Seedling,CO2_ppm,332,422.75,464.0,791.0
+Basil,Seedling,Root_Zone_Temp_C,332,20.48,22.1,24.0
+Basil,Seedling,N_mg_L,332,78.88,95.1,118.93
+Basil,Seedling,P_mg_L,332,21.0,25.0,31.6
+Basil,Seedling,K_mg_L,332,104.7,126.85,157.57
+Basil,Seedling,Ca_mg_L,332,79.1,94.1,119.43
+Basil,Seedling,Mg_mg_L,332,23.58,28.6,35.52
+Basil,Vegetative Growth,pH,1025,5.59,5.83,6.01
+Basil,Vegetative Growth,EC_mS_cm,1025,1.38,1.65,2.02
+Basil,Vegetative Growth,TDS_ppm,1025,688.0,826.0,1012.0
+Basil,Vegetative Growth,Water_Temp_C,1025,20.7,22.2,23.8
+Basil,Vegetative Growth,Air_Temp_C,1025,20.7,23.0,25.8
+Basil,Vegetative Growth,Relative_Humidity_pct,1025,54.1,61.3,68.2
+Basil,Vegetative Growth,PPFD_umol_m2_s,1025,253.0,277.0,296.0
+Basil,Vegetative Growth,DLI_mol_m2_day,1025,14.5,16.0,17.1
+Basil,Vegetative Growth,Photoperiod_h,1025,16.0,16.0,16.0
+Basil,Vegetative Growth,CO2_ppm,1025,423.0,469.0,791.0
+Basil,Vegetative Growth,Root_Zone_Temp_C,1025,20.6,22.2,23.8
+Basil,Vegetative Growth,N_mg_L,1025,113.9,137.4,168.0
+Basil,Vegetative Growth,P_mg_L,1025,30.2,36.3,44.9
+Basil,Vegetative Growth,K_mg_L,1025,151.7,181.4,222.4
+Basil,Vegetative Growth,Ca_mg_L,1025,113.0,135.8,169.0
+Basil,Vegetative Growth,Mg_mg_L,1025,34.4,41.2,50.5
+Bell Pepper,Flowering,pH,220,5.92,6.1,6.23
+Bell Pepper,Flowering,EC_mS_cm,220,2.31,2.68,3.05
+Bell Pepper,Flowering,TDS_ppm,220,1157.5,1340.5,1526.5
+Bell Pepper,Flowering,Water_Temp_C,220,20.7,21.85,23.1
+Bell Pepper,Flowering,Air_Temp_C,220,21.88,23.9,25.52
+Bell Pepper,Flowering,Relative_Humidity_pct,220,63.88,67.55,72.0
+Bell Pepper,Flowering,PPFD_umol_m2_s,220,343.0,391.0,427.25
+Bell Pepper,Flowering,DLI_mol_m2_day,220,19.8,22.5,24.85
+Bell Pepper,Flowering,Photoperiod_h,220,16.0,16.0,16.0
+Bell Pepper,Flowering,CO2_ppm,220,418.0,445.0,632.75
+Bell Pepper,Flowering,Root_Zone_Temp_C,220,20.6,22.0,23.5
+Bell Pepper,Flowering,N_mg_L,220,162.7,189.0,214.85
+Bell Pepper,Flowering,P_mg_L,220,52.0,59.65,68.7
+Bell Pepper,Flowering,K_mg_L,220,347.02,395.5,468.45
+Bell Pepper,Flowering,Ca_mg_L,220,191.55,218.45,251.12
+Bell Pepper,Flowering,Mg_mg_L,220,58.6,66.3,77.3
+Bell Pepper,Fruiting,pH,539,5.92,6.1,6.22
+Bell Pepper,Fruiting,EC_mS_cm,539,2.34,2.66,3.04
+Bell Pepper,Fruiting,TDS_ppm,539,1168.0,1328.0,1520.5
+Bell Pepper,Fruiting,Water_Temp_C,539,20.8,22.0,23.1
+Bell Pepper,Fruiting,Air_Temp_C,539,22.0,23.9,25.5
+Bell Pepper,Fruiting,Relative_Humidity_pct,539,63.3,67.4,72.0
+Bell Pepper,Fruiting,PPFD_umol_m2_s,539,345.0,393.0,427.5
+Bell Pepper,Fruiting,DLI_mol_m2_day,539,19.9,22.6,25.0
+Bell Pepper,Fruiting,Photoperiod_h,539,16.0,16.0,16.0
+Bell Pepper,Fruiting,CO2_ppm,539,418.0,444.0,624.5
+Bell Pepper,Fruiting,Root_Zone_Temp_C,539,20.65,22.1,23.5
+Bell Pepper,Fruiting,N_mg_L,539,164.3,187.0,214.45
+Bell Pepper,Fruiting,P_mg_L,539,51.7,58.9,67.5
+Bell Pepper,Fruiting,K_mg_L,539,349.2,398.4,454.8
+Bell Pepper,Fruiting,Ca_mg_L,539,193.0,220.9,253.7
+Bell Pepper,Fruiting,Mg_mg_L,539,58.25,66.1,76.25
+Bell Pepper,Germination,pH,111,5.9,6.09,6.23
+Bell Pepper,Germination,EC_mS_cm,111,1.16,1.33,1.53
+Bell Pepper,Germination,TDS_ppm,111,580.0,667.0,765.5
+Bell Pepper,Germination,Water_Temp_C,111,20.7,21.9,23.2
+Bell Pepper,Germination,Air_Temp_C,111,21.95,23.9,25.5
+Bell Pepper,Germination,Relative_Humidity_pct,111,63.45,67.4,71.85
+Bell Pepper,Germination,PPFD_umol_m2_s,111,344.0,393.0,429.0
+Bell Pepper,Germination,DLI_mol_m2_day,111,19.85,22.6,25.0
+Bell Pepper,Germination,Photoperiod_h,111,16.0,16.0,16.0
+Bell Pepper,Germination,CO2_ppm,111,418.5,443.0,624.5
+Bell Pepper,Germination,Root_Zone_Temp_C,111,20.55,22.2,23.5
+Bell Pepper,Germination,N_mg_L,111,96.65,111.0,127.75
+Bell Pepper,Germination,P_mg_L,111,25.3,29.1,33.15
+Bell Pepper,Germination,K_mg_L,111,128.95,145.7,168.3
+Bell Pepper,Germination,Ca_mg_L,111,97.75,109.8,125.45
+Bell Pepper,Germination,Mg_mg_L,111,28.85,34.1,38.55
+Bell Pepper,Harvest,pH,108,5.93,6.08,6.23
+Bell Pepper,Harvest,EC_mS_cm,108,2.34,2.62,3.02
+Bell Pepper,Harvest,TDS_ppm,108,1168.0,1311.0,1510.25
+Bell Pepper,Harvest,Water_Temp_C,108,20.95,21.75,23.0
+Bell Pepper,Harvest,Air_Temp_C,108,22.18,23.65,25.5
+Bell Pepper,Harvest,Relative_Humidity_pct,108,63.35,67.55,71.82
+Bell Pepper,Harvest,PPFD_umol_m2_s,108,344.5,391.0,427.25
+Bell Pepper,Harvest,DLI_mol_m2_day,108,19.88,22.5,24.85
+Bell Pepper,Harvest,Photoperiod_h,108,16.0,16.0,16.0
+Bell Pepper,Harvest,CO2_ppm,108,418.0,443.5,632.75
+Bell Pepper,Harvest,Root_Zone_Temp_C,108,20.6,21.9,23.22
+Bell Pepper,Harvest,N_mg_L,108,194.45,221.3,257.38
+Bell Pepper,Harvest,P_mg_L,108,50.85,58.85,66.15
+Bell Pepper,Harvest,K_mg_L,108,260.22,293.5,331.35
+Bell Pepper,Harvest,Ca_mg_L,108,190.82,220.8,254.32
+Bell Pepper,Harvest,Mg_mg_L,108,58.2,66.05,74.08
+Bell Pepper,Maturation,pH,176,5.94,6.09,6.22
+Bell Pepper,Maturation,EC_mS_cm,176,2.34,2.66,3.09
+Bell Pepper,Maturation,TDS_ppm,176,1171.5,1329.0,1546.5
+Bell Pepper,Maturation,Water_Temp_C,176,20.6,22.05,23.22
+Bell Pepper,Maturation,Air_Temp_C,176,21.8,24.0,25.6
+Bell Pepper,Maturation,Relative_Humidity_pct,176,64.05,68.1,72.12
+Bell Pepper,Maturation,PPFD_umol_m2_s,176,344.5,394.5,428.5
+Bell Pepper,Maturation,DLI_mol_m2_day,176,19.88,22.7,25.0
+Bell Pepper,Maturation,Photoperiod_h,176,16.0,16.0,16.0
+Bell Pepper,Maturation,CO2_ppm,176,418.0,443.5,662.0
+Bell Pepper,Maturation,Root_Zone_Temp_C,176,20.5,22.25,23.6
+Bell Pepper,Maturation,N_mg_L,176,192.28,224.65,253.88
+Bell Pepper,Maturation,P_mg_L,176,51.88,59.0,69.22
+Bell Pepper,Maturation,K_mg_L,176,256.88,300.4,345.35
+Bell Pepper,Maturation,Ca_mg_L,176,190.18,220.15,262.92
+Bell Pepper,Maturation,Mg_mg_L,176,57.0,66.15,77.08
+Bell Pepper,Seedling,pH,326,5.92,6.1,6.23
+Bell Pepper,Seedling,EC_mS_cm,326,1.64,1.86,2.14
+Bell Pepper,Seedling,TDS_ppm,326,822.25,928.0,1067.25
+Bell Pepper,Seedling,Water_Temp_C,326,20.7,21.9,23.1
+Bell Pepper,Seedling,Air_Temp_C,326,21.9,24.1,25.3
+Bell Pepper,Seedling,Relative_Humidity_pct,326,63.55,67.45,71.78
+Bell Pepper,Seedling,PPFD_umol_m2_s,326,345.0,393.0,428.0
+Bell Pepper,Seedling,DLI_mol_m2_day,326,19.9,22.6,25.0
+Bell Pepper,Seedling,Photoperiod_h,326,16.0,16.0,16.0
+Bell Pepper,Seedling,CO2_ppm,326,418.0,444.0,631.0
+Bell Pepper,Seedling,Root_Zone_Temp_C,326,20.8,22.2,23.48
+Bell Pepper,Seedling,N_mg_L,326,133.85,155.35,175.75
+Bell Pepper,Seedling,P_mg_L,326,36.3,41.1,47.2
+Bell Pepper,Seedling,K_mg_L,326,179.8,206.85,238.0
+Bell Pepper,Seedling,Ca_mg_L,326,134.62,154.8,178.35
+Bell Pepper,Seedling,Mg_mg_L,326,40.95,46.5,53.38
+Bell Pepper,Vegetative Growth,pH,382,5.92,6.1,6.22
+Bell Pepper,Vegetative Growth,EC_mS_cm,382,2.31,2.65,3.07
+Bell Pepper,Vegetative Growth,TDS_ppm,382,1156.75,1323.5,1533.75
+Bell Pepper,Vegetative Growth,Water_Temp_C,382,20.7,21.9,23.0
+Bell Pepper,Vegetative Growth,Air_Temp_C,382,21.9,24.0,25.48
+Bell Pepper,Vegetative Growth,Relative_Humidity_pct,382,63.22,67.9,72.7
+Bell Pepper,Vegetative Growth,PPFD_umol_m2_s,382,343.0,393.0,430.0
+Bell Pepper,Vegetative Growth,DLI_mol_m2_day,382,19.8,22.6,25.0
+Bell Pepper,Vegetative Growth,Photoperiod_h,382,16.0,16.0,16.0
+Bell Pepper,Vegetative Growth,CO2_ppm,382,418.0,444.0,627.75
+Bell Pepper,Vegetative Growth,Root_Zone_Temp_C,382,20.5,22.1,23.6
+Bell Pepper,Vegetative Growth,N_mg_L,382,190.75,222.25,255.15
+Bell Pepper,Vegetative Growth,P_mg_L,382,51.58,59.15,68.2
+Bell Pepper,Vegetative Growth,K_mg_L,382,256.7,293.3,340.85
+Bell Pepper,Vegetative Growth,Ca_mg_L,382,190.1,220.55,253.88
+Bell Pepper,Vegetative Growth,Mg_mg_L,382,57.45,65.6,76.85
+Capsicum,Flowering,pH,227,5.87,6.02,6.18
+Capsicum,Flowering,EC_mS_cm,227,2.11,2.37,2.77
+Capsicum,Flowering,TDS_ppm,227,1056.5,1184.0,1384.0
+Capsicum,Flowering,Water_Temp_C,227,20.8,22.1,23.65
+Capsicum,Flowering,Air_Temp_C,227,22.3,23.5,25.9
+Capsicum,Flowering,Relative_Humidity_pct,227,63.05,68.1,73.7
+Capsicum,Flowering,PPFD_umol_m2_s,227,336.0,392.0,427.5
+Capsicum,Flowering,DLI_mol_m2_day,227,19.3,22.6,24.75
+Capsicum,Flowering,Photoperiod_h,227,16.0,16.0,16.0
+Capsicum,Flowering,CO2_ppm,227,420.0,443.0,618.0
+Capsicum,Flowering,Root_Zone_Temp_C,227,20.3,21.7,23.4
+Capsicum,Flowering,N_mg_L,227,151.1,172.3,196.8
+Capsicum,Flowering,P_mg_L,227,46.95,53.5,61.2
+Capsicum,Flowering,K_mg_L,227,320.5,359.1,410.1
+Capsicum,Flowering,Ca_mg_L,227,176.5,198.1,230.6
+Capsicum,Flowering,Mg_mg_L,227,53.15,59.5,68.9
+Capsicum,Fruiting,pH,518,5.87,6.03,6.2
+Capsicum,Fruiting,EC_mS_cm,518,2.12,2.38,2.79
+Capsicum,Fruiting,TDS_ppm,518,1062.25,1189.0,1394.75
+Capsicum,Fruiting,Water_Temp_C,518,20.6,22.1,23.6
+Capsicum,Fruiting,Air_Temp_C,518,22.2,23.6,26.0
+Capsicum,Fruiting,Relative_Humidity_pct,518,63.32,68.45,73.7
+Capsicum,Fruiting,PPFD_umol_m2_s,518,334.0,392.0,428.0
+Capsicum,Fruiting,DLI_mol_m2_day,518,19.2,22.6,24.9
+Capsicum,Fruiting,Photoperiod_h,518,16.0,16.0,16.0
+Capsicum,Fruiting,CO2_ppm,518,420.0,443.0,616.75
+Capsicum,Fruiting,Root_Zone_Temp_C,518,20.3,21.8,23.58
+Capsicum,Fruiting,N_mg_L,518,150.4,171.05,197.15
+Capsicum,Fruiting,P_mg_L,518,47.02,52.7,61.28
+Capsicum,Fruiting,K_mg_L,518,316.05,356.0,415.02
+Capsicum,Fruiting,Ca_mg_L,518,177.6,199.3,233.8
+Capsicum,Fruiting,Mg_mg_L,518,52.72,59.95,70.25
+Capsicum,Germination,pH,107,5.88,6.02,6.18
+Capsicum,Germination,EC_mS_cm,107,1.06,1.22,1.4
+Capsicum,Germination,TDS_ppm,107,532.5,608.0,701.0
+Capsicum,Germination,Water_Temp_C,107,20.7,22.1,23.4
+Capsicum,Germination,Air_Temp_C,107,22.25,23.7,26.05
+Capsicum,Germination,Relative_Humidity_pct,107,63.4,68.8,74.0
+Capsicum,Germination,PPFD_umol_m2_s,107,336.0,392.0,427.5
+Capsicum,Germination,DLI_mol_m2_day,107,19.25,22.6,24.75
+Capsicum,Germination,Photoperiod_h,107,16.0,16.0,16.0
+Capsicum,Germination,CO2_ppm,107,420.5,443.0,619.0
+Capsicum,Germination,Root_Zone_Temp_C,107,20.45,22.1,23.5
+Capsicum,Germination,N_mg_L,107,89.25,98.1,115.85
+Capsicum,Germination,P_mg_L,107,23.75,26.9,30.95
+Capsicum,Germination,K_mg_L,107,119.65,132.5,151.4
+Capsicum,Germination,Ca_mg_L,107,88.8,101.8,116.1
+Capsicum,Germination,Mg_mg_L,107,26.4,30.1,35.1
+Capsicum,Harvest,pH,109,5.86,6.02,6.21
+Capsicum,Harvest,EC_mS_cm,109,2.12,2.37,2.8
+Capsicum,Harvest,TDS_ppm,109,1062.0,1186.0,1402.0
+Capsicum,Harvest,Water_Temp_C,109,20.6,22.2,23.7
+Capsicum,Harvest,Air_Temp_C,109,22.3,23.8,25.9
+Capsicum,Harvest,Relative_Humidity_pct,109,62.8,67.9,73.8
+Capsicum,Harvest,PPFD_umol_m2_s,109,335.0,392.0,428.0
+Capsicum,Harvest,DLI_mol_m2_day,109,19.2,22.6,24.9
+Capsicum,Harvest,Photoperiod_h,109,16.0,16.0,16.0
+Capsicum,Harvest,CO2_ppm,109,421.0,444.0,620.0
+Capsicum,Harvest,Root_Zone_Temp_C,109,20.0,21.7,23.5
+Capsicum,Harvest,N_mg_L,109,175.0,198.2,229.3
+Capsicum,Harvest,P_mg_L,109,46.4,53.0,61.8
+Capsicum,Harvest,K_mg_L,109,236.3,265.8,304.9
+Capsicum,Harvest,Ca_mg_L,109,174.4,200.0,228.6
+Capsicum,Harvest,Mg_mg_L,109,53.0,60.3,70.1
+Capsicum,Maturation,pH,204,5.87,6.01,6.18
+Capsicum,Maturation,EC_mS_cm,204,2.12,2.38,2.77
+Capsicum,Maturation,TDS_ppm,204,1060.75,1188.0,1384.75
+Capsicum,Maturation,Water_Temp_C,204,20.7,22.0,23.6
+Capsicum,Maturation,Air_Temp_C,204,22.28,23.8,26.1
+Capsicum,Maturation,Relative_Humidity_pct,204,63.82,68.4,73.82
+Capsicum,Maturation,PPFD_umol_m2_s,204,337.0,395.5,427.25
+Capsicum,Maturation,DLI_mol_m2_day,204,19.38,22.7,24.92
+Capsicum,Maturation,Photoperiod_h,204,16.0,16.0,16.0
+Capsicum,Maturation,CO2_ppm,204,420.75,443.0,618.0
+Capsicum,Maturation,Root_Zone_Temp_C,204,20.18,21.7,23.4
+Capsicum,Maturation,N_mg_L,204,177.08,202.1,232.18
+Capsicum,Maturation,P_mg_L,204,46.85,53.25,62.05
+Capsicum,Maturation,K_mg_L,204,236.72,264.05,309.95
+Capsicum,Maturation,Ca_mg_L,204,176.62,198.85,231.2
+Capsicum,Maturation,Mg_mg_L,204,53.32,59.85,70.43
+Capsicum,Seedling,pH,326,5.88,6.02,6.19
+Capsicum,Seedling,EC_mS_cm,326,1.49,1.67,1.94
+Capsicum,Seedling,TDS_ppm,326,744.0,835.5,972.0
+Capsicum,Seedling,Water_Temp_C,326,20.5,22.1,23.6
+Capsicum,Seedling,Air_Temp_C,326,22.2,23.6,26.0
+Capsicum,Seedling,Relative_Humidity_pct,326,63.08,68.45,74.0
+Capsicum,Seedling,PPFD_umol_m2_s,326,334.0,392.0,427.75
+Capsicum,Seedling,DLI_mol_m2_day,326,19.2,22.6,24.82
+Capsicum,Seedling,Photoperiod_h,326,16.0,16.0,16.0
+Capsicum,Seedling,CO2_ppm,326,420.25,443.5,619.5
+Capsicum,Seedling,Root_Zone_Temp_C,326,20.4,21.8,23.5
+Capsicum,Seedling,N_mg_L,326,124.58,138.6,162.57
+Capsicum,Seedling,P_mg_L,326,32.92,37.5,43.05
+Capsicum,Seedling,K_mg_L,326,165.15,186.3,219.48
+Capsicum,Seedling,Ca_mg_L,326,123.72,138.35,163.07
+Capsicum,Seedling,Mg_mg_L,326,37.2,41.7,48.25
+Capsicum,Vegetative Growth,pH,362,5.87,6.02,6.2
+Capsicum,Vegetative Growth,EC_mS_cm,362,2.12,2.38,2.82
+Capsicum,Vegetative Growth,TDS_ppm,362,1062.5,1191.5,1409.25
+Capsicum,Vegetative Growth,Water_Temp_C,362,20.6,22.1,23.6
+Capsicum,Vegetative Growth,Air_Temp_C,362,22.2,23.6,26.08
+Capsicum,Vegetative Growth,Relative_Humidity_pct,362,62.9,68.2,73.9
+Capsicum,Vegetative Growth,PPFD_umol_m2_s,362,334.0,392.0,428.0
+Capsicum,Vegetative Growth,DLI_mol_m2_day,362,19.12,22.6,24.98
+Capsicum,Vegetative Growth,Photoperiod_h,362,16.0,16.0,16.0
+Capsicum,Vegetative Growth,CO2_ppm,362,421.0,444.0,619.5
+Capsicum,Vegetative Growth,Root_Zone_Temp_C,362,20.0,21.8,23.6
+Capsicum,Vegetative Growth,N_mg_L,362,176.32,200.4,235.15
+Capsicum,Vegetative Growth,P_mg_L,362,46.52,52.9,61.78
+Capsicum,Vegetative Growth,K_mg_L,362,233.85,262.25,306.95
+Capsicum,Vegetative Growth,Ca_mg_L,362,176.62,198.95,234.82
+Capsicum,Vegetative Growth,Mg_mg_L,362,52.12,59.6,70.18
+Celery,Germination,pH,128,5.9,6.07,6.39
+Celery,Germination,EC_mS_cm,128,0.94,1.05,1.21
+Celery,Germination,TDS_ppm,128,472.0,525.0,604.0
+Celery,Germination,Water_Temp_C,128,16.27,17.7,19.42
+Celery,Germination,Air_Temp_C,128,17.0,18.65,20.65
+Celery,Germination,Relative_Humidity_pct,128,62.58,68.05,74.7
+Celery,Germination,PPFD_umol_m2_s,128,216.5,248.0,278.25
+Celery,Germination,DLI_mol_m2_day,128,12.48,14.35,16.1
+Celery,Germination,Photoperiod_h,128,16.0,16.0,16.0
+Celery,Germination,CO2_ppm,128,420.75,451.0,626.75
+Celery,Germination,Root_Zone_Temp_C,128,16.2,17.75,19.32
+Celery,Germination,N_mg_L,128,79.1,87.6,99.7
+Celery,Germination,P_mg_L,128,20.27,23.05,26.52
+Celery,Germination,K_mg_L,128,102.1,120.0,133.7
+Celery,Germination,Ca_mg_L,128,78.8,87.8,99.5
+Celery,Germination,Mg_mg_L,128,23.3,26.1,30.3
+Celery,Harvest,pH,114,5.84,6.08,6.35
+Celery,Harvest,EC_mS_cm,114,1.94,2.1,2.42
+Celery,Harvest,TDS_ppm,114,970.5,1052.0,1211.25
+Celery,Harvest,Water_Temp_C,114,16.32,17.85,19.3
+Celery,Harvest,Air_Temp_C,114,17.2,18.75,20.58
+Celery,Harvest,Relative_Humidity_pct,114,62.82,67.35,73.28
+Celery,Harvest,PPFD_umol_m2_s,114,217.25,246.0,276.0
+Celery,Harvest,DLI_mol_m2_day,114,12.5,14.15,15.9
+Celery,Harvest,Photoperiod_h,114,16.0,16.0,16.0
+Celery,Harvest,CO2_ppm,114,421.25,452.0,786.25
+Celery,Harvest,Root_Zone_Temp_C,114,16.3,17.8,19.48
+Celery,Harvest,N_mg_L,114,161.25,174.6,195.2
+Celery,Harvest,P_mg_L,114,43.3,47.0,53.85
+Celery,Harvest,K_mg_L,114,217.12,242.05,271.12
+Celery,Harvest,Ca_mg_L,114,164.0,177.3,201.32
+Celery,Harvest,Mg_mg_L,114,48.5,52.55,61.0
+Celery,Maturation,pH,347,5.87,6.06,6.34
+Celery,Maturation,EC_mS_cm,347,1.91,2.11,2.42
+Celery,Maturation,TDS_ppm,347,953.0,1056.0,1208.0
+Celery,Maturation,Water_Temp_C,347,16.4,17.8,19.2
+Celery,Maturation,Air_Temp_C,347,17.0,18.6,20.7
+Celery,Maturation,Relative_Humidity_pct,347,62.05,67.9,73.35
+Celery,Maturation,PPFD_umol_m2_s,347,218.0,249.0,276.0
+Celery,Maturation,DLI_mol_m2_day,347,12.5,14.3,16.0
+Celery,Maturation,Photoperiod_h,347,16.0,16.0,16.0
+Celery,Maturation,CO2_ppm,347,421.0,452.0,781.0
+Celery,Maturation,Root_Zone_Temp_C,347,16.4,17.8,19.4
+Celery,Maturation,N_mg_L,347,157.5,176.8,198.8
+Celery,Maturation,P_mg_L,347,42.3,47.0,53.75
+Celery,Maturation,K_mg_L,347,212.0,234.9,269.85
+Celery,Maturation,Ca_mg_L,347,159.15,176.5,200.8
+Celery,Maturation,Mg_mg_L,347,47.5,53.3,60.15
+Celery,Seedling,pH,339,5.9,6.07,6.33
+Celery,Seedling,EC_mS_cm,339,1.35,1.48,1.68
+Celery,Seedling,TDS_ppm,339,677.5,739.0,840.0
+Celery,Seedling,Water_Temp_C,339,16.3,17.8,19.3
+Celery,Seedling,Air_Temp_C,339,17.1,18.7,20.6
+Celery,Seedling,Relative_Humidity_pct,339,62.3,67.7,73.05
+Celery,Seedling,PPFD_umol_m2_s,339,218.5,249.0,277.0
+Celery,Seedling,DLI_mol_m2_day,339,12.55,14.3,16.0
+Celery,Seedling,Photoperiod_h,339,16.0,16.0,16.0
+Celery,Seedling,CO2_ppm,339,423.0,452.0,784.5
+Celery,Seedling,Root_Zone_Temp_C,339,16.2,17.8,19.35
+Celery,Seedling,N_mg_L,339,111.2,122.2,139.2
+Celery,Seedling,P_mg_L,339,29.7,32.8,37.4
+Celery,Seedling,K_mg_L,339,148.25,165.6,186.45
+Celery,Seedling,Ca_mg_L,339,112.4,123.1,139.5
+Celery,Seedling,Mg_mg_L,339,33.5,37.2,42.35
+Celery,Vegetative Growth,pH,960,5.88,6.07,6.35
+Celery,Vegetative Growth,EC_mS_cm,960,1.91,2.11,2.42
+Celery,Vegetative Growth,TDS_ppm,960,953.75,1055.0,1209.25
+Celery,Vegetative Growth,Water_Temp_C,960,16.4,17.8,19.4
+Celery,Vegetative Growth,Air_Temp_C,960,17.1,18.6,20.7
+Celery,Vegetative Growth,Relative_Humidity_pct,960,62.2,67.7,73.6
+Celery,Vegetative Growth,PPFD_umol_m2_s,960,217.0,248.0,278.0
+Celery,Vegetative Growth,DLI_mol_m2_day,960,12.5,14.25,16.0
+Celery,Vegetative Growth,Photoperiod_h,960,16.0,16.0,16.0
+Celery,Vegetative Growth,CO2_ppm,960,421.0,452.0,781.0
+Celery,Vegetative Growth,Root_Zone_Temp_C,960,16.3,17.8,19.4
+Celery,Vegetative Growth,N_mg_L,960,158.1,176.2,200.9
+Celery,Vegetative Growth,P_mg_L,960,42.1,46.9,53.5
+Celery,Vegetative Growth,K_mg_L,960,212.7,236.4,268.5
+Celery,Vegetative Growth,Ca_mg_L,960,159.57,176.5,200.9
+Celery,Vegetative Growth,Mg_mg_L,960,47.7,53.3,60.1
+Chilli,Flowering,pH,220,5.92,6.15,6.34
+Chilli,Flowering,EC_mS_cm,220,1.98,2.25,2.54
+Chilli,Flowering,TDS_ppm,220,988.25,1123.5,1270.0
+Chilli,Flowering,Water_Temp_C,220,20.6,22.15,23.72
+Chilli,Flowering,Air_Temp_C,220,23.4,25.6,28.35
+Chilli,Flowering,Relative_Humidity_pct,220,56.98,62.5,67.12
+Chilli,Flowering,PPFD_umol_m2_s,220,339.0,378.0,410.25
+Chilli,Flowering,DLI_mol_m2_day,220,19.38,21.4,23.62
+Chilli,Flowering,Photoperiod_h,220,16.0,16.0,16.0
+Chilli,Flowering,CO2_ppm,220,411.0,434.0,591.0
+Chilli,Flowering,Root_Zone_Temp_C,220,20.98,22.85,24.6
+Chilli,Flowering,N_mg_L,220,139.67,159.7,181.62
+Chilli,Flowering,P_mg_L,220,43.88,50.3,56.42
+Chilli,Flowering,K_mg_L,220,297.18,340.8,382.45
+Chilli,Flowering,Ca_mg_L,220,163.32,189.15,211.55
+Chilli,Flowering,Mg_mg_L,220,49.58,57.1,63.72
+Chilli,Fruiting,pH,544,5.92,6.16,6.35
+Chilli,Fruiting,EC_mS_cm,544,1.99,2.28,2.56
+Chilli,Fruiting,TDS_ppm,544,995.75,1141.0,1282.0
+Chilli,Fruiting,Water_Temp_C,544,20.8,22.3,23.8
+Chilli,Fruiting,Air_Temp_C,544,23.4,25.6,28.1
+Chilli,Fruiting,Relative_Humidity_pct,544,57.88,62.65,67.62
+Chilli,Fruiting,PPFD_umol_m2_s,544,336.0,374.5,410.0
+Chilli,Fruiting,DLI_mol_m2_day,544,19.3,21.35,23.6
+Chilli,Fruiting,Photoperiod_h,544,16.0,16.0,16.0
+Chilli,Fruiting,CO2_ppm,544,411.0,434.5,591.0
+Chilli,Fruiting,Root_Zone_Temp_C,544,21.08,22.8,24.9
+Chilli,Fruiting,N_mg_L,544,140.5,162.15,182.02
+Chilli,Fruiting,P_mg_L,544,44.18,50.6,57.12
+Chilli,Fruiting,K_mg_L,544,298.1,341.0,385.62
+Chilli,Fruiting,Ca_mg_L,544,165.58,188.1,214.7
+Chilli,Fruiting,Mg_mg_L,544,49.88,57.15,64.1
+Chilli,Germination,pH,112,5.89,6.15,6.35
+Chilli,Germination,EC_mS_cm,112,0.99,1.15,1.28
+Chilli,Germination,TDS_ppm,112,497.0,577.5,641.0
+Chilli,Germination,Water_Temp_C,112,20.7,22.2,23.75
+Chilli,Germination,Air_Temp_C,112,23.3,25.6,28.15
+Chilli,Germination,Relative_Humidity_pct,112,57.28,63.05,68.4
+Chilli,Germination,PPFD_umol_m2_s,112,335.0,370.5,408.5
+Chilli,Germination,DLI_mol_m2_day,112,19.3,21.3,23.52
+Chilli,Germination,Photoperiod_h,112,16.0,16.0,16.0
+Chilli,Germination,CO2_ppm,112,411.75,434.5,592.0
+Chilli,Germination,Root_Zone_Temp_C,112,20.95,22.7,24.8
+Chilli,Germination,N_mg_L,112,82.35,95.0,106.93
+Chilli,Germination,P_mg_L,112,22.2,25.4,28.52
+Chilli,Germination,K_mg_L,112,112.45,128.5,139.8
+Chilli,Germination,Ca_mg_L,112,80.8,95.4,107.1
+Chilli,Germination,Mg_mg_L,112,24.7,28.4,32.4
+Chilli,Harvest,pH,108,5.92,6.18,6.35
+Chilli,Harvest,EC_mS_cm,108,1.99,2.28,2.56
+Chilli,Harvest,TDS_ppm,108,994.75,1138.0,1279.75
+Chilli,Harvest,Water_Temp_C,108,20.88,22.15,23.9
+Chilli,Harvest,Air_Temp_C,108,23.38,25.5,28.05
+Chilli,Harvest,Relative_Humidity_pct,108,57.1,61.8,67.25
+Chilli,Harvest,PPFD_umol_m2_s,108,339.0,374.5,408.5
+Chilli,Harvest,DLI_mol_m2_day,108,19.38,21.35,23.52
+Chilli,Harvest,Photoperiod_h,108,16.0,16.0,16.0
+Chilli,Harvest,CO2_ppm,108,411.75,434.5,589.5
+Chilli,Harvest,Root_Zone_Temp_C,108,21.0,23.05,24.62
+Chilli,Harvest,N_mg_L,108,167.92,191.95,209.9
+Chilli,Harvest,P_mg_L,108,43.68,49.8,56.05
+Chilli,Harvest,K_mg_L,108,218.75,258.45,288.38
+Chilli,Harvest,Ca_mg_L,108,165.52,190.0,212.9
+Chilli,Harvest,Mg_mg_L,108,49.32,57.25,63.95
+Chilli,Maturation,pH,184,5.92,6.16,6.37
+Chilli,Maturation,EC_mS_cm,184,1.99,2.25,2.57
+Chilli,Maturation,TDS_ppm,184,997.5,1123.5,1283.25
+Chilli,Maturation,Water_Temp_C,184,20.5,22.05,23.7
+Chilli,Maturation,Air_Temp_C,184,23.48,25.45,28.5
+Chilli,Maturation,Relative_Humidity_pct,184,57.45,63.1,68.62
+Chilli,Maturation,PPFD_umol_m2_s,184,339.0,378.0,408.5
+Chilli,Maturation,DLI_mol_m2_day,184,19.38,21.6,23.52
+Chilli,Maturation,Photoperiod_h,184,16.0,16.0,16.0
+Chilli,Maturation,CO2_ppm,184,410.75,433.0,592.0
+Chilli,Maturation,Root_Zone_Temp_C,184,20.8,22.7,24.8
+Chilli,Maturation,N_mg_L,184,162.88,192.3,213.32
+Chilli,Maturation,P_mg_L,184,43.98,50.45,56.7
+Chilli,Maturation,K_mg_L,184,220.95,251.05,286.02
+Chilli,Maturation,Ca_mg_L,184,163.98,188.45,212.4
+Chilli,Maturation,Mg_mg_L,184,49.32,57.0,64.03
+Chilli,Seedling,pH,334,5.91,6.16,6.35
+Chilli,Seedling,EC_mS_cm,334,1.39,1.61,1.79
+Chilli,Seedling,TDS_ppm,334,696.0,803.5,893.5
+Chilli,Seedling,Water_Temp_C,334,20.6,22.25,23.78
+Chilli,Seedling,Air_Temp_C,334,23.4,25.6,28.3
+Chilli,Seedling,Relative_Humidity_pct,334,57.5,62.6,67.9
+Chilli,Seedling,PPFD_umol_m2_s,334,335.25,371.0,410.0
+Chilli,Seedling,DLI_mol_m2_day,334,19.3,21.3,23.6
+Chilli,Seedling,Photoperiod_h,334,16.0,16.0,16.0
+Chilli,Seedling,CO2_ppm,334,411.0,434.0,590.5
+Chilli,Seedling,Root_Zone_Temp_C,334,20.82,23.0,24.88
+Chilli,Seedling,N_mg_L,334,115.93,132.8,148.93
+Chilli,Seedling,P_mg_L,334,30.8,35.1,39.3
+Chilli,Seedling,K_mg_L,334,153.43,177.25,198.7
+Chilli,Seedling,Ca_mg_L,334,116.52,131.65,147.6
+Chilli,Seedling,Mg_mg_L,334,34.6,39.75,44.8
+Chilli,Vegetative Growth,pH,391,5.91,6.17,6.35
+Chilli,Vegetative Growth,EC_mS_cm,391,2.0,2.28,2.58
+Chilli,Vegetative Growth,TDS_ppm,391,1002.5,1138.0,1290.0
+Chilli,Vegetative Growth,Water_Temp_C,391,20.55,22.1,23.8
+Chilli,Vegetative Growth,Air_Temp_C,391,23.4,25.5,28.45
+Chilli,Vegetative Growth,Relative_Humidity_pct,391,57.6,62.4,67.65
+Chilli,Vegetative Growth,PPFD_umol_m2_s,391,335.0,378.0,411.0
+Chilli,Vegetative Growth,DLI_mol_m2_day,391,19.3,21.4,23.7
+Chilli,Vegetative Growth,Photoperiod_h,391,16.0,16.0,16.0
+Chilli,Vegetative Growth,CO2_ppm,391,411.0,434.0,591.0
+Chilli,Vegetative Growth,Root_Zone_Temp_C,391,20.9,22.6,24.85
+Chilli,Vegetative Growth,N_mg_L,391,165.8,190.8,213.2
+Chilli,Vegetative Growth,P_mg_L,391,44.4,50.8,56.9
+Chilli,Vegetative Growth,K_mg_L,391,218.65,252.8,285.95
+Chilli,Vegetative Growth,Ca_mg_L,391,167.3,189.4,213.8
+Chilli,Vegetative Growth,Mg_mg_L,391,49.5,57.0,64.8
+Coriander,Germination,pH,108,5.9,6.11,6.34
+Coriander,Germination,EC_mS_cm,108,0.65,0.73,0.85
+Coriander,Germination,TDS_ppm,108,325.5,366.5,427.25
+Coriander,Germination,Water_Temp_C,108,18.7,20.25,21.52
+Coriander,Germination,Air_Temp_C,108,16.6,19.25,22.6
+Coriander,Germination,Relative_Humidity_pct,108,51.18,58.95,64.68
+Coriander,Germination,PPFD_umol_m2_s,108,216.25,256.5,289.25
+Coriander,Germination,DLI_mol_m2_day,108,10.98,12.85,14.6
+Coriander,Germination,Photoperiod_h,108,14.0,14.0,14.0
+Coriander,Germination,CO2_ppm,108,416.0,443.0,787.25
+Coriander,Germination,Root_Zone_Temp_C,108,18.05,19.75,21.58
+Coriander,Germination,N_mg_L,108,55.58,61.25,70.45
+Coriander,Germination,P_mg_L,108,14.7,16.1,18.85
+Coriander,Germination,K_mg_L,108,73.58,82.55,92.85
+Coriander,Germination,Ca_mg_L,108,55.18,61.3,69.38
+Coriander,Germination,Mg_mg_L,108,16.48,18.35,20.92
+Coriander,Harvest,pH,108,5.9,6.16,6.35
+Coriander,Harvest,EC_mS_cm,108,1.33,1.46,1.68
+Coriander,Harvest,TDS_ppm,108,663.5,729.5,840.5
+Coriander,Harvest,Water_Temp_C,108,18.77,19.95,21.7
+Coriander,Harvest,Air_Temp_C,108,16.8,19.35,22.72
+Coriander,Harvest,Relative_Humidity_pct,108,51.5,58.6,64.38
+Coriander,Harvest,PPFD_umol_m2_s,108,216.25,256.5,289.0
+Coriander,Harvest,DLI_mol_m2_day,108,10.88,12.85,14.52
+Coriander,Harvest,Photoperiod_h,108,14.0,14.0,14.0
+Coriander,Harvest,CO2_ppm,108,416.0,444.0,787.25
+Coriander,Harvest,Root_Zone_Temp_C,108,17.4,19.45,21.42
+Coriander,Harvest,N_mg_L,108,110.65,121.05,142.73
+Coriander,Harvest,P_mg_L,108,29.62,33.1,37.2
+Coriander,Harvest,K_mg_L,108,143.98,165.7,184.22
+Coriander,Harvest,Ca_mg_L,108,112.15,122.95,140.12
+Coriander,Harvest,Mg_mg_L,108,33.18,37.45,41.78
+Coriander,Maturation,pH,340,5.89,6.16,6.37
+Coriander,Maturation,EC_mS_cm,340,1.33,1.46,1.68
+Coriander,Maturation,TDS_ppm,340,663.5,729.0,838.5
+Coriander,Maturation,Water_Temp_C,340,18.68,20.1,21.5
+Coriander,Maturation,Air_Temp_C,340,16.88,19.2,22.42
+Coriander,Maturation,Relative_Humidity_pct,340,52.28,58.3,64.93
+Coriander,Maturation,PPFD_umol_m2_s,340,217.0,252.0,286.75
+Coriander,Maturation,DLI_mol_m2_day,340,10.98,12.65,14.42
+Coriander,Maturation,Photoperiod_h,340,14.0,14.0,14.0
+Coriander,Maturation,CO2_ppm,340,416.0,443.0,785.5
+Coriander,Maturation,Root_Zone_Temp_C,340,17.68,19.5,21.3
+Coriander,Maturation,N_mg_L,340,109.65,122.8,140.7
+Coriander,Maturation,P_mg_L,340,29.3,32.75,37.15
+Coriander,Maturation,K_mg_L,340,146.7,163.5,185.77
+Coriander,Maturation,Ca_mg_L,340,109.65,121.25,138.95
+Coriander,Maturation,Mg_mg_L,340,32.5,36.6,41.5
+Coriander,Seedling,pH,363,5.89,6.14,6.36
+Coriander,Seedling,EC_mS_cm,363,0.93,1.03,1.18
+Coriander,Seedling,TDS_ppm,363,466.0,514.0,590.0
+Coriander,Seedling,Water_Temp_C,363,18.6,20.0,21.4
+Coriander,Seedling,Air_Temp_C,363,16.95,19.3,22.35
+Coriander,Seedling,Relative_Humidity_pct,363,52.05,58.6,65.1
+Coriander,Seedling,PPFD_umol_m2_s,363,217.0,249.0,285.0
+Coriander,Seedling,DLI_mol_m2_day,363,10.95,12.5,14.4
+Coriander,Seedling,Photoperiod_h,363,14.0,14.0,14.0
+Coriander,Seedling,CO2_ppm,363,415.0,443.0,785.0
+Coriander,Seedling,Root_Zone_Temp_C,363,17.7,19.4,21.4
+Coriander,Seedling,N_mg_L,363,77.1,85.8,95.95
+Coriander,Seedling,P_mg_L,363,20.6,22.9,26.3
+Coriander,Seedling,K_mg_L,363,103.0,113.9,130.5
+Coriander,Seedling,Ca_mg_L,363,77.85,85.7,98.2
+Coriander,Seedling,Mg_mg_L,363,23.0,25.7,29.55
+Coriander,Vegetative Growth,pH,957,5.89,6.13,6.38
+Coriander,Vegetative Growth,EC_mS_cm,957,1.31,1.46,1.68
+Coriander,Vegetative Growth,TDS_ppm,957,656.0,732.0,840.0
+Coriander,Vegetative Growth,Water_Temp_C,957,18.6,20.2,21.5
+Coriander,Vegetative Growth,Air_Temp_C,957,16.9,19.2,22.5
+Coriander,Vegetative Growth,Relative_Humidity_pct,957,51.9,58.5,64.9
+Coriander,Vegetative Growth,PPFD_umol_m2_s,957,217.0,249.0,285.0
+Coriander,Vegetative Growth,DLI_mol_m2_day,957,10.9,12.5,14.4
+Coriander,Vegetative Growth,Photoperiod_h,957,14.0,14.0,14.0
+Coriander,Vegetative Growth,CO2_ppm,957,415.0,442.0,772.0
+Coriander,Vegetative Growth,Root_Zone_Temp_C,957,17.7,19.6,21.4
+Coriander,Vegetative Growth,N_mg_L,957,110.0,121.8,139.3
+Coriander,Vegetative Growth,P_mg_L,957,29.2,32.4,37.0
+Coriander,Vegetative Growth,K_mg_L,957,144.9,162.7,186.8
+Coriander,Vegetative Growth,Ca_mg_L,957,109.9,122.0,139.4
+Coriander,Vegetative Growth,Mg_mg_L,957,32.9,36.6,41.9
+Cucumber,Flowering,pH,212,5.9,6.08,6.22
+Cucumber,Flowering,EC_mS_cm,212,1.89,2.13,2.38
+Cucumber,Flowering,TDS_ppm,212,944.75,1064.5,1189.75
+Cucumber,Flowering,Water_Temp_C,212,20.9,21.9,23.2
+Cucumber,Flowering,Air_Temp_C,212,22.8,25.0,27.12
+Cucumber,Flowering,Relative_Humidity_pct,212,67.47,73.9,78.62
+Cucumber,Flowering,PPFD_umol_m2_s,212,387.25,425.0,467.0
+Cucumber,Flowering,DLI_mol_m2_day,212,22.4,24.5,26.92
+Cucumber,Flowering,Photoperiod_h,212,16.0,16.0,16.0
+Cucumber,Flowering,CO2_ppm,212,423.0,454.0,629.5
+Cucumber,Flowering,Root_Zone_Temp_C,212,21.0,22.4,23.6
+Cucumber,Flowering,N_mg_L,212,132.4,149.05,171.2
+Cucumber,Flowering,P_mg_L,212,41.28,46.8,53.42
+Cucumber,Flowering,K_mg_L,212,276.33,318.3,360.48
+Cucumber,Flowering,Ca_mg_L,212,155.62,178.3,198.15
+Cucumber,Flowering,Mg_mg_L,212,46.38,53.5,60.02
+Cucumber,Fruiting,pH,473,5.93,6.1,6.24
+Cucumber,Fruiting,EC_mS_cm,473,1.88,2.13,2.37
+Cucumber,Fruiting,TDS_ppm,473,940.0,1066.0,1186.0
+Cucumber,Fruiting,Water_Temp_C,473,20.8,21.9,23.2
+Cucumber,Fruiting,Air_Temp_C,473,23.0,24.9,27.1
+Cucumber,Fruiting,Relative_Humidity_pct,473,67.8,73.1,78.0
+Cucumber,Fruiting,PPFD_umol_m2_s,473,389.0,425.0,466.0
+Cucumber,Fruiting,DLI_mol_m2_day,473,22.5,24.5,26.9
+Cucumber,Fruiting,Photoperiod_h,473,16.0,16.0,16.0
+Cucumber,Fruiting,CO2_ppm,473,421.0,453.0,637.0
+Cucumber,Fruiting,Root_Zone_Temp_C,473,21.2,22.4,23.8
+Cucumber,Fruiting,N_mg_L,473,133.7,150.6,167.8
+Cucumber,Fruiting,P_mg_L,473,41.5,46.9,52.4
+Cucumber,Fruiting,K_mg_L,473,280.6,320.0,355.8
+Cucumber,Fruiting,Ca_mg_L,473,155.5,177.6,199.7
+Cucumber,Fruiting,Mg_mg_L,473,46.8,53.2,59.3
+Cucumber,Germination,pH,103,5.92,6.1,6.26
+Cucumber,Germination,EC_mS_cm,103,0.93,1.07,1.2
+Cucumber,Germination,TDS_ppm,103,467.0,535.0,602.5
+Cucumber,Germination,Water_Temp_C,103,20.9,22.0,23.2
+Cucumber,Germination,Air_Temp_C,103,23.0,24.8,27.3
+Cucumber,Germination,Relative_Humidity_pct,103,67.8,72.9,77.45
+Cucumber,Germination,PPFD_umol_m2_s,103,388.5,425.0,466.5
+Cucumber,Germination,DLI_mol_m2_day,103,22.45,24.5,26.9
+Cucumber,Germination,Photoperiod_h,103,16.0,16.0,16.0
+Cucumber,Germination,CO2_ppm,103,423.0,455.0,632.0
+Cucumber,Germination,Root_Zone_Temp_C,103,20.9,22.4,23.8
+Cucumber,Germination,N_mg_L,103,78.65,88.0,101.05
+Cucumber,Germination,P_mg_L,103,20.8,23.7,26.7
+Cucumber,Germination,K_mg_L,103,104.25,119.0,132.2
+Cucumber,Germination,Ca_mg_L,103,78.5,88.6,99.35
+Cucumber,Germination,Mg_mg_L,103,23.5,26.9,30.3
+Cucumber,Harvest,pH,101,5.93,6.12,6.25
+Cucumber,Harvest,EC_mS_cm,101,1.86,2.1,2.38
+Cucumber,Harvest,TDS_ppm,101,928.0,1048.0,1190.0
+Cucumber,Harvest,Water_Temp_C,101,20.8,22.0,23.1
+Cucumber,Harvest,Air_Temp_C,101,23.0,24.8,27.1
+Cucumber,Harvest,Relative_Humidity_pct,101,67.6,72.9,78.0
+Cucumber,Harvest,PPFD_umol_m2_s,101,389.0,425.0,466.0
+Cucumber,Harvest,DLI_mol_m2_day,101,22.5,24.5,26.9
+Cucumber,Harvest,Photoperiod_h,101,16.0,16.0,16.0
+Cucumber,Harvest,CO2_ppm,101,423.0,454.0,627.0
+Cucumber,Harvest,Root_Zone_Temp_C,101,20.9,22.4,23.8
+Cucumber,Harvest,N_mg_L,101,157.3,177.5,197.7
+Cucumber,Harvest,P_mg_L,101,41.9,46.6,52.5
+Cucumber,Harvest,K_mg_L,101,203.2,234.9,262.4
+Cucumber,Harvest,Ca_mg_L,101,154.8,173.6,197.7
+Cucumber,Harvest,Mg_mg_L,101,46.6,52.0,59.0
+Cucumber,Maturation,pH,169,5.9,6.09,6.26
+Cucumber,Maturation,EC_mS_cm,169,1.89,2.14,2.42
+Cucumber,Maturation,TDS_ppm,169,946.0,1072.0,1208.0
+Cucumber,Maturation,Water_Temp_C,169,20.7,22.0,23.3
+Cucumber,Maturation,Air_Temp_C,169,22.7,24.7,26.9
+Cucumber,Maturation,Relative_Humidity_pct,169,67.7,73.1,78.8
+Cucumber,Maturation,PPFD_umol_m2_s,169,381.0,428.0,467.0
+Cucumber,Maturation,DLI_mol_m2_day,169,22.1,24.7,27.0
+Cucumber,Maturation,Photoperiod_h,169,16.0,16.0,16.0
+Cucumber,Maturation,CO2_ppm,169,423.0,464.0,640.0
+Cucumber,Maturation,Root_Zone_Temp_C,169,20.7,22.2,23.7
+Cucumber,Maturation,N_mg_L,169,153.2,178.0,202.2
+Cucumber,Maturation,P_mg_L,169,41.4,47.4,54.5
+Cucumber,Maturation,K_mg_L,169,203.7,236.3,265.0
+Cucumber,Maturation,Ca_mg_L,169,156.5,177.2,201.4
+Cucumber,Maturation,Mg_mg_L,169,46.4,53.3,60.0
+Cucumber,Seedling,pH,312,5.93,6.09,6.23
+Cucumber,Seedling,EC_mS_cm,312,1.33,1.49,1.68
+Cucumber,Seedling,TDS_ppm,312,665.5,743.0,838.25
+Cucumber,Seedling,Water_Temp_C,312,20.88,22.1,23.3
+Cucumber,Seedling,Air_Temp_C,312,22.8,24.9,27.0
+Cucumber,Seedling,Relative_Humidity_pct,312,67.6,73.5,78.6
+Cucumber,Seedling,PPFD_umol_m2_s,312,388.75,426.5,466.25
+Cucumber,Seedling,DLI_mol_m2_day,312,22.48,24.6,26.92
+Cucumber,Seedling,Photoperiod_h,312,16.0,16.0,16.0
+Cucumber,Seedling,CO2_ppm,312,423.0,454.0,629.5
+Cucumber,Seedling,Root_Zone_Temp_C,312,21.0,22.5,24.0
+Cucumber,Seedling,N_mg_L,312,108.18,123.75,139.48
+Cucumber,Seedling,P_mg_L,312,29.25,33.5,37.12
+Cucumber,Seedling,K_mg_L,312,146.23,165.5,186.08
+Cucumber,Seedling,Ca_mg_L,312,110.25,124.65,137.02
+Cucumber,Seedling,Mg_mg_L,312,33.1,36.7,41.92
+Cucumber,Vegetative Growth,pH,334,5.94,6.1,6.25
+Cucumber,Vegetative Growth,EC_mS_cm,334,1.88,2.12,2.4
+Cucumber,Vegetative Growth,TDS_ppm,334,941.0,1060.0,1201.5
+Cucumber,Vegetative Growth,Water_Temp_C,334,20.62,21.9,23.2
+Cucumber,Vegetative Growth,Air_Temp_C,334,22.9,24.9,27.18
+Cucumber,Vegetative Growth,Relative_Humidity_pct,334,67.3,73.35,77.97
+Cucumber,Vegetative Growth,PPFD_umol_m2_s,334,384.0,423.0,466.0
+Cucumber,Vegetative Growth,DLI_mol_m2_day,334,22.2,24.45,27.0
+Cucumber,Vegetative Growth,Photoperiod_h,334,16.0,16.0,16.0
+Cucumber,Vegetative Growth,CO2_ppm,334,421.5,453.0,626.25
+Cucumber,Vegetative Growth,Root_Zone_Temp_C,334,20.9,22.4,24.1
+Cucumber,Vegetative Growth,N_mg_L,334,154.72,176.95,197.88
+Cucumber,Vegetative Growth,P_mg_L,334,41.8,47.0,53.5
+Cucumber,Vegetative Growth,K_mg_L,334,202.27,234.45,264.15
+Cucumber,Vegetative Growth,Ca_mg_L,334,155.55,175.95,199.6
+Cucumber,Vegetative Growth,Mg_mg_L,334,46.72,53.15,59.8
+Fenugreek,Germination,pH,99,5.92,6.14,6.42
+Fenugreek,Germination,EC_mS_cm,99,0.65,0.77,0.85
+Fenugreek,Germination,TDS_ppm,99,324.5,386.0,426.5
+Fenugreek,Germination,Water_Temp_C,99,19.05,21.3,23.5
+Fenugreek,Germination,Air_Temp_C,99,20.25,22.3,24.8
+Fenugreek,Germination,Relative_Humidity_pct,99,53.35,58.9,64.25
+Fenugreek,Germination,PPFD_umol_m2_s,99,246.5,270.0,293.0
+Fenugreek,Germination,DLI_mol_m2_day,99,12.55,13.6,14.75
+Fenugreek,Germination,Photoperiod_h,99,14.0,14.0,14.0
+Fenugreek,Germination,CO2_ppm,99,420.0,474.0,777.5
+Fenugreek,Germination,Root_Zone_Temp_C,99,18.8,21.2,22.9
+Fenugreek,Germination,N_mg_L,99,54.55,63.4,71.9
+Fenugreek,Germination,P_mg_L,99,14.7,16.8,19.1
+Fenugreek,Germination,K_mg_L,99,70.45,85.2,95.0
+Fenugreek,Germination,Ca_mg_L,99,53.75,64.0,70.35
+Fenugreek,Germination,Mg_mg_L,99,16.3,19.0,21.25
+Fenugreek,Harvest,pH,95,5.94,6.14,6.42
+Fenugreek,Harvest,EC_mS_cm,95,1.33,1.55,1.69
+Fenugreek,Harvest,TDS_ppm,95,662.5,776.0,847.5
+Fenugreek,Harvest,Water_Temp_C,95,19.05,21.2,23.3
+Fenugreek,Harvest,Air_Temp_C,95,19.85,22.5,25.1
+Fenugreek,Harvest,Relative_Humidity_pct,95,54.35,59.1,65.05
+Fenugreek,Harvest,PPFD_umol_m2_s,95,246.5,270.0,291.5
+Fenugreek,Harvest,DLI_mol_m2_day,95,12.4,13.6,14.7
+Fenugreek,Harvest,Photoperiod_h,95,14.0,14.0,14.0
+Fenugreek,Harvest,CO2_ppm,95,420.0,483.0,777.5
+Fenugreek,Harvest,Root_Zone_Temp_C,95,19.05,21.1,23.1
+Fenugreek,Harvest,N_mg_L,95,109.9,127.4,143.4
+Fenugreek,Harvest,P_mg_L,95,28.8,34.1,37.8
+Fenugreek,Harvest,K_mg_L,95,148.7,167.5,188.8
+Fenugreek,Harvest,Ca_mg_L,95,108.1,127.2,141.9
+Fenugreek,Harvest,Mg_mg_L,95,33.5,39.4,42.45
+Fenugreek,Maturation,pH,278,5.95,6.16,6.48
+Fenugreek,Maturation,EC_mS_cm,278,1.28,1.53,1.71
+Fenugreek,Maturation,TDS_ppm,278,638.25,763.0,852.75
+Fenugreek,Maturation,Water_Temp_C,278,19.0,21.3,23.38
+Fenugreek,Maturation,Air_Temp_C,278,20.02,22.5,25.1
+Fenugreek,Maturation,Relative_Humidity_pct,278,53.3,58.45,65.57
+Fenugreek,Maturation,PPFD_umol_m2_s,278,246.0,270.0,292.0
+Fenugreek,Maturation,DLI_mol_m2_day,278,12.4,13.6,14.7
+Fenugreek,Maturation,Photoperiod_h,278,14.0,14.0,14.0
+Fenugreek,Maturation,CO2_ppm,278,420.0,483.0,779.0
+Fenugreek,Maturation,Root_Zone_Temp_C,278,18.9,20.95,23.2
+Fenugreek,Maturation,N_mg_L,278,106.4,125.25,143.0
+Fenugreek,Maturation,P_mg_L,278,28.58,33.6,37.58
+Fenugreek,Maturation,K_mg_L,278,142.5,167.65,188.35
+Fenugreek,Maturation,Ca_mg_L,278,105.7,127.15,141.43
+Fenugreek,Maturation,Mg_mg_L,278,32.22,38.3,42.7
+Fenugreek,Seedling,pH,286,5.95,6.15,6.42
+Fenugreek,Seedling,EC_mS_cm,286,0.92,1.07,1.19
+Fenugreek,Seedling,TDS_ppm,286,459.75,534.0,594.75
+Fenugreek,Seedling,Water_Temp_C,286,19.1,21.25,23.38
+Fenugreek,Seedling,Air_Temp_C,286,20.1,22.5,25.08
+Fenugreek,Seedling,Relative_Humidity_pct,286,54.22,59.4,65.62
+Fenugreek,Seedling,PPFD_umol_m2_s,286,246.0,270.0,291.0
+Fenugreek,Seedling,DLI_mol_m2_day,286,12.4,13.6,14.7
+Fenugreek,Seedling,Photoperiod_h,286,14.0,14.0,14.0
+Fenugreek,Seedling,CO2_ppm,286,420.0,483.0,776.0
+Fenugreek,Seedling,Root_Zone_Temp_C,286,18.8,21.05,23.1
+Fenugreek,Seedling,N_mg_L,286,76.3,89.25,98.6
+Fenugreek,Seedling,P_mg_L,286,20.12,23.8,26.6
+Fenugreek,Seedling,K_mg_L,286,101.12,119.95,132.82
+Fenugreek,Seedling,Ca_mg_L,286,77.6,89.55,99.4
+Fenugreek,Seedling,Mg_mg_L,286,22.9,27.25,29.88
+Fenugreek,Vegetative Growth,pH,824,5.92,6.16,6.44
+Fenugreek,Vegetative Growth,EC_mS_cm,824,1.29,1.52,1.7
+Fenugreek,Vegetative Growth,TDS_ppm,824,643.75,761.5,852.0
+Fenugreek,Vegetative Growth,Water_Temp_C,824,18.9,21.2,23.5
+Fenugreek,Vegetative Growth,Air_Temp_C,824,19.8,22.45,25.0
+Fenugreek,Vegetative Growth,Relative_Humidity_pct,824,53.68,58.9,65.4
+Fenugreek,Vegetative Growth,PPFD_umol_m2_s,824,245.0,270.0,292.0
+Fenugreek,Vegetative Growth,DLI_mol_m2_day,824,12.4,13.6,14.7
+Fenugreek,Vegetative Growth,Photoperiod_h,824,14.0,14.0,14.0
+Fenugreek,Vegetative Growth,CO2_ppm,824,420.0,474.0,779.5
+Fenugreek,Vegetative Growth,Root_Zone_Temp_C,824,18.8,20.9,23.1
+Fenugreek,Vegetative Growth,N_mg_L,824,105.52,126.4,142.33
+Fenugreek,Vegetative Growth,P_mg_L,824,28.3,33.45,37.9
+Fenugreek,Vegetative Growth,K_mg_L,824,141.2,169.1,188.92
+Fenugreek,Vegetative Growth,Ca_mg_L,824,106.28,127.35,142.7
+Fenugreek,Vegetative Growth,Mg_mg_L,824,32.0,38.2,42.6
+Kale,Germination,pH,103,5.7,6.04,6.44
+Kale,Germination,EC_mS_cm,103,0.86,0.99,1.13
+Kale,Germination,TDS_ppm,103,431.0,496.0,565.0
+Kale,Germination,Water_Temp_C,103,18.85,20.2,21.4
+Kale,Germination,Air_Temp_C,103,17.8,20.8,23.1
+Kale,Germination,Relative_Humidity_pct,103,58.95,63.1,68.4
+Kale,Germination,PPFD_umol_m2_s,103,225.0,265.0,292.5
+Kale,Germination,DLI_mol_m2_day,103,12.95,14.9,16.8
+Kale,Germination,Photoperiod_h,103,16.0,16.0,16.0
+Kale,Germination,CO2_ppm,103,419.5,450.0,631.5
+Kale,Germination,Root_Zone_Temp_C,103,18.65,19.9,21.4
+Kale,Germination,N_mg_L,103,71.65,82.9,94.6
+Kale,Germination,P_mg_L,103,19.05,22.4,25.3
+Kale,Germination,K_mg_L,103,91.9,111.1,124.55
+Kale,Germination,Ca_mg_L,103,70.6,83.3,94.35
+Kale,Germination,Mg_mg_L,103,21.3,25.4,29.6
+Kale,Harvest,pH,105,5.76,6.02,6.42
+Kale,Harvest,EC_mS_cm,105,1.68,1.98,2.29
+Kale,Harvest,TDS_ppm,105,838.0,992.0,1144.0
+Kale,Harvest,Water_Temp_C,105,18.8,20.1,21.5
+Kale,Harvest,Air_Temp_C,105,17.6,20.6,23.5
+Kale,Harvest,Relative_Humidity_pct,105,58.0,63.0,68.2
+Kale,Harvest,PPFD_umol_m2_s,105,226.0,265.0,292.0
+Kale,Harvest,DLI_mol_m2_day,105,13.0,14.8,16.8
+Kale,Harvest,Photoperiod_h,105,16.0,16.0,16.0
+Kale,Harvest,CO2_ppm,105,420.0,450.0,628.0
+Kale,Harvest,Root_Zone_Temp_C,105,18.9,20.1,21.5
+Kale,Harvest,N_mg_L,105,141.3,165.4,191.7
+Kale,Harvest,P_mg_L,105,36.6,45.8,50.7
+Kale,Harvest,K_mg_L,105,189.6,220.5,257.2
+Kale,Harvest,Ca_mg_L,105,139.5,165.8,190.0
+Kale,Harvest,Mg_mg_L,105,42.9,49.2,56.6
+Kale,Maturation,pH,313,5.75,6.05,6.41
+Kale,Maturation,EC_mS_cm,313,1.67,1.99,2.29
+Kale,Maturation,TDS_ppm,313,834.0,997.0,1144.0
+Kale,Maturation,Water_Temp_C,313,18.9,20.2,21.6
+Kale,Maturation,Air_Temp_C,313,17.6,20.7,23.3
+Kale,Maturation,Relative_Humidity_pct,313,58.4,63.5,67.7
+Kale,Maturation,PPFD_umol_m2_s,313,224.0,265.0,293.0
+Kale,Maturation,DLI_mol_m2_day,313,12.9,14.9,16.8
+Kale,Maturation,Photoperiod_h,313,16.0,16.0,16.0
+Kale,Maturation,CO2_ppm,313,420.0,451.0,759.0
+Kale,Maturation,Root_Zone_Temp_C,313,18.8,20.2,21.6
+Kale,Maturation,N_mg_L,313,138.9,166.1,189.6
+Kale,Maturation,P_mg_L,313,36.8,44.4,50.9
+Kale,Maturation,K_mg_L,313,187.1,220.7,252.9
+Kale,Maturation,Ca_mg_L,313,141.0,166.5,191.7
+Kale,Maturation,Mg_mg_L,313,41.8,49.5,57.0
+Kale,Seedling,pH,358,5.76,6.04,6.4
+Kale,Seedling,EC_mS_cm,358,1.19,1.41,1.6
+Kale,Seedling,TDS_ppm,358,595.25,703.5,800.0
+Kale,Seedling,Water_Temp_C,358,19.0,20.3,21.5
+Kale,Seedling,Air_Temp_C,358,17.73,20.5,23.0
+Kale,Seedling,Relative_Humidity_pct,358,58.1,63.0,67.72
+Kale,Seedling,PPFD_umol_m2_s,358,224.0,259.0,291.0
+Kale,Seedling,DLI_mol_m2_day,358,12.9,14.7,16.4
+Kale,Seedling,Photoperiod_h,358,16.0,16.0,16.0
+Kale,Seedling,CO2_ppm,358,419.25,450.5,635.0
+Kale,Seedling,Root_Zone_Temp_C,358,18.92,20.3,21.48
+Kale,Seedling,N_mg_L,358,100.12,117.05,132.07
+Kale,Seedling,P_mg_L,358,26.6,31.6,35.1
+Kale,Seedling,K_mg_L,358,133.85,154.85,176.75
+Kale,Seedling,Ca_mg_L,358,99.25,116.8,132.4
+Kale,Seedling,Mg_mg_L,358,30.12,35.05,39.9
+Kale,Vegetative Growth,pH,935,5.76,6.03,6.43
+Kale,Vegetative Growth,EC_mS_cm,935,1.69,1.99,2.29
+Kale,Vegetative Growth,TDS_ppm,935,844.0,996.0,1147.0
+Kale,Vegetative Growth,Water_Temp_C,935,18.9,20.2,21.6
+Kale,Vegetative Growth,Air_Temp_C,935,17.6,20.4,23.2
+Kale,Vegetative Growth,Relative_Humidity_pct,935,58.6,63.2,67.9
+Kale,Vegetative Growth,PPFD_umol_m2_s,935,224.0,259.0,291.0
+Kale,Vegetative Growth,DLI_mol_m2_day,935,12.9,14.7,16.6
+Kale,Vegetative Growth,Photoperiod_h,935,16.0,16.0,16.0
+Kale,Vegetative Growth,CO2_ppm,935,420.0,451.0,635.0
+Kale,Vegetative Growth,Root_Zone_Temp_C,935,18.85,20.2,21.6
+Kale,Vegetative Growth,N_mg_L,935,141.7,166.7,190.45
+Kale,Vegetative Growth,P_mg_L,935,37.5,44.6,50.7
+Kale,Vegetative Growth,K_mg_L,935,187.1,222.6,254.75
+Kale,Vegetative Growth,Ca_mg_L,935,140.4,166.4,190.4
+Kale,Vegetative Growth,Mg_mg_L,935,42.2,49.9,57.4
+Lettuce,Germination,pH,112,5.54,5.78,5.96
+Lettuce,Germination,EC_mS_cm,112,0.62,0.72,0.85
+Lettuce,Germination,TDS_ppm,112,307.5,361.0,426.0
+Lettuce,Germination,Water_Temp_C,112,18.68,19.95,21.5
+Lettuce,Germination,Air_Temp_C,112,18.77,20.45,22.82
+Lettuce,Germination,Relative_Humidity_pct,112,56.52,62.5,67.82
+Lettuce,Germination,PPFD_umol_m2_s,112,221.0,243.0,270.75
+Lettuce,Germination,DLI_mol_m2_day,112,12.75,13.95,15.7
+Lettuce,Germination,Photoperiod_h,112,16.0,16.0,16.0
+Lettuce,Germination,CO2_ppm,112,420.0,440.0,625.5
+Lettuce,Germination,Root_Zone_Temp_C,112,18.1,20.1,21.6
+Lettuce,Germination,N_mg_L,112,50.53,61.2,70.85
+Lettuce,Germination,P_mg_L,112,13.88,16.2,18.85
+Lettuce,Germination,K_mg_L,112,69.12,80.9,96.43
+Lettuce,Germination,Ca_mg_L,112,51.5,60.9,70.93
+Lettuce,Germination,Mg_mg_L,112,15.5,17.95,21.28
+Lettuce,Harvest,pH,114,5.57,5.74,5.95
+Lettuce,Harvest,EC_mS_cm,114,1.25,1.45,1.72
+Lettuce,Harvest,TDS_ppm,114,626.5,726.5,860.25
+Lettuce,Harvest,Water_Temp_C,114,18.6,19.85,21.48
+Lettuce,Harvest,Air_Temp_C,114,18.75,21.05,23.28
+Lettuce,Harvest,Relative_Humidity_pct,114,56.52,62.75,67.42
+Lettuce,Harvest,PPFD_umol_m2_s,114,222.0,243.0,273.0
+Lettuce,Harvest,DLI_mol_m2_day,114,12.8,14.0,15.7
+Lettuce,Harvest,Photoperiod_h,114,16.0,16.0,16.0
+Lettuce,Harvest,CO2_ppm,114,421.25,442.0,628.5
+Lettuce,Harvest,Root_Zone_Temp_C,114,18.23,19.9,21.58
+Lettuce,Harvest,N_mg_L,114,102.65,120.75,138.85
+Lettuce,Harvest,P_mg_L,114,27.35,31.7,39.0
+Lettuce,Harvest,K_mg_L,114,136.42,162.35,188.8
+Lettuce,Harvest,Ca_mg_L,114,104.6,122.25,142.65
+Lettuce,Harvest,Mg_mg_L,114,31.1,36.5,43.22
+Lettuce,Maturation,pH,326,5.56,5.78,5.97
+Lettuce,Maturation,EC_mS_cm,326,1.23,1.45,1.71
+Lettuce,Maturation,TDS_ppm,326,616.0,724.0,853.5
+Lettuce,Maturation,Water_Temp_C,326,18.2,19.9,21.4
+Lettuce,Maturation,Air_Temp_C,326,18.8,20.9,23.0
+Lettuce,Maturation,Relative_Humidity_pct,326,56.8,62.65,67.97
+Lettuce,Maturation,PPFD_umol_m2_s,326,216.0,243.0,273.0
+Lettuce,Maturation,DLI_mol_m2_day,326,12.4,14.0,15.7
+Lettuce,Maturation,Photoperiod_h,326,16.0,16.0,16.0
+Lettuce,Maturation,CO2_ppm,326,421.0,441.0,624.0
+Lettuce,Maturation,Root_Zone_Temp_C,326,18.1,19.8,21.3
+Lettuce,Maturation,N_mg_L,326,100.22,117.9,142.25
+Lettuce,Maturation,P_mg_L,326,27.1,31.7,38.18
+Lettuce,Maturation,K_mg_L,326,136.93,159.3,192.18
+Lettuce,Maturation,Ca_mg_L,326,101.55,121.55,144.02
+Lettuce,Maturation,Mg_mg_L,326,30.62,36.35,42.75
+Lettuce,Seedling,pH,346,5.57,5.78,5.96
+Lettuce,Seedling,EC_mS_cm,346,0.87,1.02,1.2
+Lettuce,Seedling,TDS_ppm,346,434.25,509.0,602.5
+Lettuce,Seedling,Water_Temp_C,346,18.2,19.9,21.5
+Lettuce,Seedling,Air_Temp_C,346,18.7,20.6,23.08
+Lettuce,Seedling,Relative_Humidity_pct,346,57.3,62.8,67.8
+Lettuce,Seedling,PPFD_umol_m2_s,346,218.0,243.0,273.0
+Lettuce,Seedling,DLI_mol_m2_day,346,12.6,14.0,15.7
+Lettuce,Seedling,Photoperiod_h,346,16.0,16.0,16.0
+Lettuce,Seedling,CO2_ppm,346,421.0,441.0,624.0
+Lettuce,Seedling,Root_Zone_Temp_C,346,18.32,19.9,21.6
+Lettuce,Seedling,N_mg_L,346,71.45,83.55,99.3
+Lettuce,Seedling,P_mg_L,346,18.73,22.15,26.38
+Lettuce,Seedling,K_mg_L,346,96.3,111.5,132.17
+Lettuce,Seedling,Ca_mg_L,346,71.62,84.2,100.18
+Lettuce,Seedling,Mg_mg_L,346,21.5,25.05,30.0
+Lettuce,Vegetative Growth,pH,885,5.56,5.77,5.97
+Lettuce,Vegetative Growth,EC_mS_cm,885,1.23,1.44,1.72
+Lettuce,Vegetative Growth,TDS_ppm,885,615.0,722.0,862.0
+Lettuce,Vegetative Growth,Water_Temp_C,885,18.3,19.9,21.6
+Lettuce,Vegetative Growth,Air_Temp_C,885,18.6,20.8,23.0
+Lettuce,Vegetative Growth,Relative_Humidity_pct,885,56.5,62.6,68.0
+Lettuce,Vegetative Growth,PPFD_umol_m2_s,885,216.0,243.0,275.0
+Lettuce,Vegetative Growth,DLI_mol_m2_day,885,12.4,13.9,15.9
+Lettuce,Vegetative Growth,Photoperiod_h,885,16.0,16.0,16.0
+Lettuce,Vegetative Growth,CO2_ppm,885,417.0,441.0,624.0
+Lettuce,Vegetative Growth,Root_Zone_Temp_C,885,18.3,20.0,21.6
+Lettuce,Vegetative Growth,N_mg_L,885,100.9,120.7,142.2
+Lettuce,Vegetative Growth,P_mg_L,885,26.7,32.2,38.2
+Lettuce,Vegetative Growth,K_mg_L,885,137.2,159.7,191.4
+Lettuce,Vegetative Growth,Ca_mg_L,885,102.2,120.6,143.7
+Lettuce,Vegetative Growth,Mg_mg_L,885,30.8,36.0,43.0
+Mint,Germination,pH,117,5.77,5.96,6.27
+Mint,Germination,EC_mS_cm,117,0.97,1.09,1.16
+Mint,Germination,TDS_ppm,117,483.0,544.0,582.0
+Mint,Germination,Water_Temp_C,117,19.3,21.0,22.9
+Mint,Germination,Air_Temp_C,117,19.2,21.9,24.3
+Mint,Germination,Relative_Humidity_pct,117,58.4,64.7,73.7
+Mint,Germination,PPFD_umol_m2_s,117,226.0,256.0,283.0
+Mint,Germination,DLI_mol_m2_day,117,13.0,14.8,16.3
+Mint,Germination,Photoperiod_h,117,16.0,16.0,16.0
+Mint,Germination,CO2_ppm,117,407.0,434.0,597.0
+Mint,Germination,Root_Zone_Temp_C,117,19.4,21.1,22.7
+Mint,Germination,N_mg_L,117,79.9,89.4,97.6
+Mint,Germination,P_mg_L,117,21.2,23.7,26.0
+Mint,Germination,K_mg_L,117,107.1,120.0,130.3
+Mint,Germination,Ca_mg_L,117,79.5,89.9,98.5
+Mint,Germination,Mg_mg_L,117,24.1,26.8,29.5
+Mint,Harvest,pH,118,5.75,5.98,6.24
+Mint,Harvest,EC_mS_cm,118,1.91,2.13,2.3
+Mint,Harvest,TDS_ppm,118,953.0,1064.5,1148.5
+Mint,Harvest,Water_Temp_C,118,19.62,21.2,23.18
+Mint,Harvest,Air_Temp_C,118,19.23,21.8,24.18
+Mint,Harvest,Relative_Humidity_pct,118,58.9,64.65,72.9
+Mint,Harvest,PPFD_umol_m2_s,118,226.5,256.0,283.0
+Mint,Harvest,DLI_mol_m2_day,118,13.0,14.9,16.3
+Mint,Harvest,Photoperiod_h,118,16.0,16.0,16.0
+Mint,Harvest,CO2_ppm,118,407.25,434.5,610.0
+Mint,Harvest,Root_Zone_Temp_C,118,19.42,21.35,23.38
+Mint,Harvest,N_mg_L,118,157.18,174.55,190.82
+Mint,Harvest,P_mg_L,118,41.4,47.45,50.68
+Mint,Harvest,K_mg_L,118,209.6,237.15,252.7
+Mint,Harvest,Ca_mg_L,118,153.57,174.3,192.38
+Mint,Harvest,Mg_mg_L,118,47.15,52.7,57.4
+Mint,Maturation,pH,353,5.74,5.97,6.25
+Mint,Maturation,EC_mS_cm,353,1.91,2.14,2.31
+Mint,Maturation,TDS_ppm,353,956.0,1068.0,1156.0
+Mint,Maturation,Water_Temp_C,353,19.4,21.2,23.1
+Mint,Maturation,Air_Temp_C,353,19.3,21.8,24.2
+Mint,Maturation,Relative_Humidity_pct,353,58.4,64.8,73.3
+Mint,Maturation,PPFD_umol_m2_s,353,226.0,256.0,283.0
+Mint,Maturation,DLI_mol_m2_day,353,12.9,14.8,16.3
+Mint,Maturation,Photoperiod_h,353,16.0,16.0,16.0
+Mint,Maturation,CO2_ppm,353,407.0,434.0,606.0
+Mint,Maturation,Root_Zone_Temp_C,353,19.5,21.2,23.0
+Mint,Maturation,N_mg_L,353,159.2,176.7,194.7
+Mint,Maturation,P_mg_L,353,42.8,47.6,51.3
+Mint,Maturation,K_mg_L,353,211.0,236.8,255.5
+Mint,Maturation,Ca_mg_L,353,158.2,176.8,194.2
+Mint,Maturation,Mg_mg_L,353,48.1,53.2,58.2
+Mint,Seedling,pH,351,5.75,5.97,6.25
+Mint,Seedling,EC_mS_cm,351,1.35,1.5,1.62
+Mint,Seedling,TDS_ppm,351,672.5,752.0,810.5
+Mint,Seedling,Water_Temp_C,351,19.35,21.2,23.2
+Mint,Seedling,Air_Temp_C,351,19.3,21.8,24.4
+Mint,Seedling,Relative_Humidity_pct,351,58.55,64.5,73.35
+Mint,Seedling,PPFD_umol_m2_s,351,226.0,256.0,283.0
+Mint,Seedling,DLI_mol_m2_day,351,13.0,14.8,16.3
+Mint,Seedling,Photoperiod_h,351,16.0,16.0,16.0
+Mint,Seedling,CO2_ppm,351,407.0,433.0,606.0
+Mint,Seedling,Root_Zone_Temp_C,351,19.5,21.3,23.1
+Mint,Seedling,N_mg_L,351,110.85,124.9,135.3
+Mint,Seedling,P_mg_L,351,29.4,33.0,35.9
+Mint,Seedling,K_mg_L,351,147.2,164.1,180.1
+Mint,Seedling,Ca_mg_L,351,110.6,124.8,135.55
+Mint,Seedling,Mg_mg_L,351,33.6,37.3,40.75
+Mint,Vegetative Growth,pH,972,5.74,5.97,6.25
+Mint,Vegetative Growth,EC_mS_cm,972,1.92,2.14,2.31
+Mint,Vegetative Growth,TDS_ppm,972,958.0,1070.5,1154.0
+Mint,Vegetative Growth,Water_Temp_C,972,19.4,21.2,23.2
+Mint,Vegetative Growth,Air_Temp_C,972,19.1,21.7,24.3
+Mint,Vegetative Growth,Relative_Humidity_pct,972,58.4,64.9,73.7
+Mint,Vegetative Growth,PPFD_umol_m2_s,972,226.0,256.0,283.0
+Mint,Vegetative Growth,DLI_mol_m2_day,972,12.98,14.8,16.3
+Mint,Vegetative Growth,Photoperiod_h,972,16.0,16.0,16.0
+Mint,Vegetative Growth,CO2_ppm,972,407.0,434.0,607.0
+Mint,Vegetative Growth,Root_Zone_Temp_C,972,19.48,21.2,23.2
+Mint,Vegetative Growth,N_mg_L,972,159.8,177.45,194.1
+Mint,Vegetative Growth,P_mg_L,972,42.4,47.3,51.2
+Mint,Vegetative Growth,K_mg_L,972,209.8,235.1,257.12
+Mint,Vegetative Growth,Ca_mg_L,972,159.38,176.4,192.62
+Mint,Vegetative Growth,Mg_mg_L,972,48.0,53.0,57.9
+Mustard Greens,Germination,pH,111,5.59,5.98,6.29
+Mustard Greens,Germination,EC_mS_cm,111,0.8,0.92,1.04
+Mustard Greens,Germination,TDS_ppm,111,402.0,460.0,522.0
+Mustard Greens,Germination,Water_Temp_C,111,18.5,20.1,21.5
+Mustard Greens,Germination,Air_Temp_C,111,16.8,20.1,23.3
+Mustard Greens,Germination,Relative_Humidity_pct,111,59.6,63.6,67.75
+Mustard Greens,Germination,PPFD_umol_m2_s,111,224.5,244.0,262.5
+Mustard Greens,Germination,DLI_mol_m2_day,111,12.95,13.9,15.0
+Mustard Greens,Germination,Photoperiod_h,111,16.0,16.0,16.0
+Mustard Greens,Germination,CO2_ppm,111,417.0,447.0,619.0
+Mustard Greens,Germination,Root_Zone_Temp_C,111,18.35,19.6,21.25
+Mustard Greens,Germination,N_mg_L,111,66.8,78.3,86.0
+Mustard Greens,Germination,P_mg_L,111,17.7,20.5,22.9
+Mustard Greens,Germination,K_mg_L,111,89.8,102.5,115.95
+Mustard Greens,Germination,Ca_mg_L,111,66.4,75.1,86.75
+Mustard Greens,Germination,Mg_mg_L,111,19.75,22.9,25.75
+Mustard Greens,Harvest,pH,108,5.6,5.98,6.28
+Mustard Greens,Harvest,EC_mS_cm,108,1.62,1.83,2.11
+Mustard Greens,Harvest,TDS_ppm,108,809.75,917.0,1056.75
+Mustard Greens,Harvest,Water_Temp_C,108,18.68,20.1,21.5
+Mustard Greens,Harvest,Air_Temp_C,108,17.27,19.55,23.02
+Mustard Greens,Harvest,Relative_Humidity_pct,108,59.3,63.7,67.82
+Mustard Greens,Harvest,PPFD_umol_m2_s,108,225.0,244.0,264.0
+Mustard Greens,Harvest,DLI_mol_m2_day,108,13.0,13.95,15.05
+Mustard Greens,Harvest,Photoperiod_h,108,16.0,16.0,16.0
+Mustard Greens,Harvest,CO2_ppm,108,418.0,447.5,620.5
+Mustard Greens,Harvest,Root_Zone_Temp_C,108,18.27,19.4,21.2
+Mustard Greens,Harvest,N_mg_L,108,133.9,152.75,172.85
+Mustard Greens,Harvest,P_mg_L,108,35.7,40.15,47.0
+Mustard Greens,Harvest,K_mg_L,108,182.15,205.15,231.65
+Mustard Greens,Harvest,Ca_mg_L,108,132.95,152.95,173.58
+Mustard Greens,Harvest,Mg_mg_L,108,39.65,45.5,51.68
+Mustard Greens,Maturation,pH,362,5.61,6.03,6.29
+Mustard Greens,Maturation,EC_mS_cm,362,1.61,1.86,2.09
+Mustard Greens,Maturation,TDS_ppm,362,804.25,931.0,1044.0
+Mustard Greens,Maturation,Water_Temp_C,362,18.62,20.0,21.3
+Mustard Greens,Maturation,Air_Temp_C,362,17.05,19.85,22.7
+Mustard Greens,Maturation,Relative_Humidity_pct,362,59.5,64.05,67.57
+Mustard Greens,Maturation,PPFD_umol_m2_s,362,225.5,244.0,261.0
+Mustard Greens,Maturation,DLI_mol_m2_day,362,13.0,14.0,15.0
+Mustard Greens,Maturation,Photoperiod_h,362,16.0,16.0,16.0
+Mustard Greens,Maturation,CO2_ppm,362,418.5,447.0,620.0
+Mustard Greens,Maturation,Root_Zone_Temp_C,362,18.1,19.4,21.18
+Mustard Greens,Maturation,N_mg_L,362,132.8,153.5,173.58
+Mustard Greens,Maturation,P_mg_L,362,35.72,40.45,45.68
+Mustard Greens,Maturation,K_mg_L,362,176.77,207.05,229.62
+Mustard Greens,Maturation,Ca_mg_L,362,134.02,152.4,170.65
+Mustard Greens,Maturation,Mg_mg_L,362,40.4,46.0,52.08
+Mustard Greens,Seedling,pH,396,5.63,6.04,6.29
+Mustard Greens,Seedling,EC_mS_cm,396,1.13,1.31,1.45
+Mustard Greens,Seedling,TDS_ppm,396,563.75,655.5,726.25
+Mustard Greens,Seedling,Water_Temp_C,396,18.68,19.9,21.4
+Mustard Greens,Seedling,Air_Temp_C,396,17.1,19.8,22.72
+Mustard Greens,Seedling,Relative_Humidity_pct,396,59.2,63.85,67.7
+Mustard Greens,Seedling,PPFD_umol_m2_s,396,225.0,241.0,261.0
+Mustard Greens,Seedling,DLI_mol_m2_day,396,13.0,13.9,15.0
+Mustard Greens,Seedling,Photoperiod_h,396,16.0,16.0,16.0
+Mustard Greens,Seedling,CO2_ppm,396,418.0,447.0,618.5
+Mustard Greens,Seedling,Root_Zone_Temp_C,396,18.2,19.5,21.2
+Mustard Greens,Seedling,N_mg_L,396,93.38,107.95,121.02
+Mustard Greens,Seedling,P_mg_L,396,24.8,28.4,32.02
+Mustard Greens,Seedling,K_mg_L,396,124.68,143.6,162.2
+Mustard Greens,Seedling,Ca_mg_L,396,93.9,107.4,120.62
+Mustard Greens,Seedling,Mg_mg_L,396,28.2,32.6,36.52
+Mustard Greens,Vegetative Growth,pH,1050,5.62,6.04,6.3
+Mustard Greens,Vegetative Growth,EC_mS_cm,1050,1.62,1.87,2.08
+Mustard Greens,Vegetative Growth,TDS_ppm,1050,808.0,934.0,1039.0
+Mustard Greens,Vegetative Growth,Water_Temp_C,1050,18.7,19.8,21.38
+Mustard Greens,Vegetative Growth,Air_Temp_C,1050,17.02,19.7,22.8
+Mustard Greens,Vegetative Growth,Relative_Humidity_pct,1050,59.0,63.7,67.68
+Mustard Greens,Vegetative Growth,PPFD_umol_m2_s,1050,225.0,241.0,261.0
+Mustard Greens,Vegetative Growth,DLI_mol_m2_day,1050,13.0,13.8,15.0
+Mustard Greens,Vegetative Growth,Photoperiod_h,1050,16.0,16.0,16.0
+Mustard Greens,Vegetative Growth,CO2_ppm,1050,418.0,447.0,620.0
+Mustard Greens,Vegetative Growth,Root_Zone_Temp_C,1050,18.2,19.6,21.1
+Mustard Greens,Vegetative Growth,N_mg_L,1050,133.1,152.5,172.32
+Mustard Greens,Vegetative Growth,P_mg_L,1050,35.6,40.9,45.9
+Mustard Greens,Vegetative Growth,K_mg_L,1050,178.82,205.75,229.85
+Mustard Greens,Vegetative Growth,Ca_mg_L,1050,134.3,153.4,173.42
+Mustard Greens,Vegetative Growth,Mg_mg_L,1050,40.42,45.9,51.9
+Pak Choi,Germination,pH,118,5.74,6.0,6.37
+Pak Choi,Germination,EC_mS_cm,118,0.8,0.89,0.98
+Pak Choi,Germination,TDS_ppm,118,400.0,444.5,490.0
+Pak Choi,Germination,Water_Temp_C,118,18.62,19.95,21.2
+Pak Choi,Germination,Air_Temp_C,118,18.7,21.1,23.2
+Pak Choi,Germination,Relative_Humidity_pct,118,62.28,67.7,71.88
+Pak Choi,Germination,PPFD_umol_m2_s,118,216.0,243.0,266.0
+Pak Choi,Germination,DLI_mol_m2_day,118,12.5,13.9,15.2
+Pak Choi,Germination,Photoperiod_h,118,16.0,16.0,16.0
+Pak Choi,Germination,CO2_ppm,118,419.75,445.5,787.0
+Pak Choi,Germination,Root_Zone_Temp_C,118,18.62,19.9,21.0
+Pak Choi,Germination,N_mg_L,118,66.62,71.85,81.85
+Pak Choi,Germination,P_mg_L,118,17.73,19.5,22.0
+Pak Choi,Germination,K_mg_L,118,89.72,97.5,108.8
+Pak Choi,Germination,Ca_mg_L,118,66.32,74.1,82.35
+Pak Choi,Germination,Mg_mg_L,118,19.92,21.8,24.2
+Pak Choi,Harvest,pH,118,5.73,5.93,6.29
+Pak Choi,Harvest,EC_mS_cm,118,1.61,1.77,1.96
+Pak Choi,Harvest,TDS_ppm,118,804.5,885.0,979.0
+Pak Choi,Harvest,Water_Temp_C,118,18.6,19.9,20.9
+Pak Choi,Harvest,Air_Temp_C,118,18.6,21.0,23.0
+Pak Choi,Harvest,Relative_Humidity_pct,118,62.8,67.3,71.78
+Pak Choi,Harvest,PPFD_umol_m2_s,118,216.0,243.0,266.0
+Pak Choi,Harvest,DLI_mol_m2_day,118,12.5,14.0,15.28
+Pak Choi,Harvest,Photoperiod_h,118,16.0,16.0,16.0
+Pak Choi,Harvest,CO2_ppm,118,418.25,445.0,787.0
+Pak Choi,Harvest,Root_Zone_Temp_C,118,18.8,19.95,21.1
+Pak Choi,Harvest,N_mg_L,118,133.8,148.1,166.22
+Pak Choi,Harvest,P_mg_L,118,35.4,39.75,43.5
+Pak Choi,Harvest,K_mg_L,118,181.0,192.15,220.2
+Pak Choi,Harvest,Ca_mg_L,118,134.57,146.3,165.05
+Pak Choi,Harvest,Mg_mg_L,118,40.2,44.2,49.75
+Pak Choi,Maturation,pH,373,5.71,5.97,6.26
+Pak Choi,Maturation,EC_mS_cm,373,1.61,1.77,1.96
+Pak Choi,Maturation,TDS_ppm,373,804.0,885.0,978.0
+Pak Choi,Maturation,Water_Temp_C,373,18.6,19.9,21.0
+Pak Choi,Maturation,Air_Temp_C,373,18.8,21.0,22.9
+Pak Choi,Maturation,Relative_Humidity_pct,373,63.0,67.9,72.2
+Pak Choi,Maturation,PPFD_umol_m2_s,373,216.0,243.0,266.0
+Pak Choi,Maturation,DLI_mol_m2_day,373,12.5,14.0,15.2
+Pak Choi,Maturation,Photoperiod_h,373,16.0,16.0,16.0
+Pak Choi,Maturation,CO2_ppm,373,419.0,445.0,787.0
+Pak Choi,Maturation,Root_Zone_Temp_C,373,18.6,19.9,21.0
+Pak Choi,Maturation,N_mg_L,373,134.4,145.9,163.4
+Pak Choi,Maturation,P_mg_L,373,35.6,39.2,44.0
+Pak Choi,Maturation,K_mg_L,373,177.9,197.1,218.0
+Pak Choi,Maturation,Ca_mg_L,373,133.3,146.1,164.2
+Pak Choi,Maturation,Mg_mg_L,373,40.5,44.1,49.1
+Pak Choi,Seedling,pH,396,5.72,5.94,6.27
+Pak Choi,Seedling,EC_mS_cm,396,1.12,1.24,1.36
+Pak Choi,Seedling,TDS_ppm,396,562.0,618.0,682.0
+Pak Choi,Seedling,Water_Temp_C,396,18.58,19.9,20.9
+Pak Choi,Seedling,Air_Temp_C,396,18.98,21.1,22.92
+Pak Choi,Seedling,Relative_Humidity_pct,396,62.78,67.4,71.58
+Pak Choi,Seedling,PPFD_umol_m2_s,396,217.0,243.0,266.0
+Pak Choi,Seedling,DLI_mol_m2_day,396,12.5,14.0,15.3
+Pak Choi,Seedling,Photoperiod_h,396,16.0,16.0,16.0
+Pak Choi,Seedling,CO2_ppm,396,419.0,445.0,787.0
+Pak Choi,Seedling,Root_Zone_Temp_C,396,18.7,19.9,21.0
+Pak Choi,Seedling,N_mg_L,396,93.1,102.5,115.02
+Pak Choi,Seedling,P_mg_L,396,24.98,27.4,30.4
+Pak Choi,Seedling,K_mg_L,396,123.68,137.15,151.7
+Pak Choi,Seedling,Ca_mg_L,396,93.18,102.45,115.4
+Pak Choi,Seedling,Mg_mg_L,396,28.18,30.7,34.3
+Pak Choi,Vegetative Growth,pH,1043,5.74,5.97,6.29
+Pak Choi,Vegetative Growth,EC_mS_cm,1043,1.6,1.76,1.95
+Pak Choi,Vegetative Growth,TDS_ppm,1043,798.0,878.0,976.0
+Pak Choi,Vegetative Growth,Water_Temp_C,1043,18.6,20.0,20.9
+Pak Choi,Vegetative Growth,Air_Temp_C,1043,18.8,21.0,22.9
+Pak Choi,Vegetative Growth,Relative_Humidity_pct,1043,62.7,67.4,71.5
+Pak Choi,Vegetative Growth,PPFD_umol_m2_s,1043,217.0,244.0,266.5
+Pak Choi,Vegetative Growth,DLI_mol_m2_day,1043,12.5,14.0,15.3
+Pak Choi,Vegetative Growth,Photoperiod_h,1043,16.0,16.0,16.0
+Pak Choi,Vegetative Growth,CO2_ppm,1043,419.0,445.0,787.0
+Pak Choi,Vegetative Growth,Root_Zone_Temp_C,1043,18.6,20.0,20.9
+Pak Choi,Vegetative Growth,N_mg_L,1043,133.55,146.7,163.3
+Pak Choi,Vegetative Growth,P_mg_L,1043,35.5,39.2,43.5
+Pak Choi,Vegetative Growth,K_mg_L,1043,176.5,194.7,218.75
+Pak Choi,Vegetative Growth,Ca_mg_L,1043,133.2,146.5,162.55
+Pak Choi,Vegetative Growth,Mg_mg_L,1043,40.0,43.8,49.0
+Spinach,Germination,pH,99,5.9,6.17,6.41
+Spinach,Germination,EC_mS_cm,99,0.74,0.85,0.96
+Spinach,Germination,TDS_ppm,99,368.0,426.0,477.5
+Spinach,Germination,Water_Temp_C,99,15.75,17.4,18.95
+Spinach,Germination,Air_Temp_C,99,16.3,18.8,20.95
+Spinach,Germination,Relative_Humidity_pct,99,57.8,63.0,67.55
+Spinach,Germination,PPFD_umol_m2_s,99,221.5,252.0,282.5
+Spinach,Germination,DLI_mol_m2_day,99,11.15,12.7,14.3
+Spinach,Germination,Photoperiod_h,99,14.0,14.0,14.0
+Spinach,Germination,CO2_ppm,99,412.5,440.0,602.0
+Spinach,Germination,Root_Zone_Temp_C,99,15.6,17.3,19.05
+Spinach,Germination,N_mg_L,99,61.65,71.9,79.9
+Spinach,Germination,P_mg_L,99,16.7,18.9,21.1
+Spinach,Germination,K_mg_L,99,83.55,97.4,106.95
+Spinach,Germination,Ca_mg_L,99,62.8,69.8,79.85
+Spinach,Germination,Mg_mg_L,99,18.55,21.1,23.65
+Spinach,Harvest,pH,101,5.9,6.17,6.38
+Spinach,Harvest,EC_mS_cm,101,1.5,1.72,1.94
+Spinach,Harvest,TDS_ppm,101,748.0,858.0,970.0
+Spinach,Harvest,Water_Temp_C,101,15.8,17.0,19.0
+Spinach,Harvest,Air_Temp_C,101,16.1,18.7,21.4
+Spinach,Harvest,Relative_Humidity_pct,101,57.6,62.7,68.5
+Spinach,Harvest,PPFD_umol_m2_s,101,220.0,251.0,282.0
+Spinach,Harvest,DLI_mol_m2_day,101,11.1,12.7,14.3
+Spinach,Harvest,Photoperiod_h,101,14.0,14.0,14.0
+Spinach,Harvest,CO2_ppm,101,414.0,438.0,598.0
+Spinach,Harvest,Root_Zone_Temp_C,101,15.5,17.1,18.8
+Spinach,Harvest,N_mg_L,101,125.7,142.2,158.9
+Spinach,Harvest,P_mg_L,101,33.1,37.8,42.5
+Spinach,Harvest,K_mg_L,101,168.4,186.6,213.5
+Spinach,Harvest,Ca_mg_L,101,125.6,142.7,158.3
+Spinach,Harvest,Mg_mg_L,101,37.3,42.7,47.7
+Spinach,Maturation,pH,328,5.9,6.2,6.4
+Spinach,Maturation,EC_mS_cm,328,1.51,1.7,1.91
+Spinach,Maturation,TDS_ppm,328,753.75,851.0,955.0
+Spinach,Maturation,Water_Temp_C,328,15.8,17.15,18.9
+Spinach,Maturation,Air_Temp_C,328,16.1,18.6,21.1
+Spinach,Maturation,Relative_Humidity_pct,328,57.5,63.45,67.72
+Spinach,Maturation,PPFD_umol_m2_s,328,220.0,251.0,282.0
+Spinach,Maturation,DLI_mol_m2_day,328,11.1,12.7,14.3
+Spinach,Maturation,Photoperiod_h,328,14.0,14.0,14.0
+Spinach,Maturation,CO2_ppm,328,411.0,438.0,588.25
+Spinach,Maturation,Root_Zone_Temp_C,328,15.7,17.2,19.0
+Spinach,Maturation,N_mg_L,328,123.9,140.65,158.1
+Spinach,Maturation,P_mg_L,328,32.9,37.5,42.22
+Spinach,Maturation,K_mg_L,328,163.67,188.7,211.55
+Spinach,Maturation,Ca_mg_L,328,124.28,142.7,159.62
+Spinach,Maturation,Mg_mg_L,328,37.4,42.5,47.9
+Spinach,Seedling,pH,349,5.91,6.18,6.38
+Spinach,Seedling,EC_mS_cm,349,1.04,1.18,1.33
+Spinach,Seedling,TDS_ppm,349,520.0,592.0,666.0
+Spinach,Seedling,Water_Temp_C,349,15.8,17.0,18.9
+Spinach,Seedling,Air_Temp_C,349,16.2,18.7,20.9
+Spinach,Seedling,Relative_Humidity_pct,349,58.1,63.3,67.7
+Spinach,Seedling,PPFD_umol_m2_s,349,223.0,251.0,282.0
+Spinach,Seedling,DLI_mol_m2_day,349,11.2,12.7,14.2
+Spinach,Seedling,Photoperiod_h,349,14.0,14.0,14.0
+Spinach,Seedling,CO2_ppm,349,414.0,441.0,598.0
+Spinach,Seedling,Root_Zone_Temp_C,349,15.8,17.1,18.8
+Spinach,Seedling,N_mg_L,349,86.5,99.6,110.3
+Spinach,Seedling,P_mg_L,349,23.2,26.4,29.8
+Spinach,Seedling,K_mg_L,349,115.9,132.7,149.7
+Spinach,Seedling,Ca_mg_L,349,86.5,97.7,111.5
+Spinach,Seedling,Mg_mg_L,349,26.2,29.3,33.8
+Spinach,Vegetative Growth,pH,925,5.9,6.18,6.39
+Spinach,Vegetative Growth,EC_mS_cm,925,1.49,1.69,1.91
+Spinach,Vegetative Growth,TDS_ppm,925,746.0,844.0,954.0
+Spinach,Vegetative Growth,Water_Temp_C,925,15.8,17.1,19.0
+Spinach,Vegetative Growth,Air_Temp_C,925,16.1,18.7,20.8
+Spinach,Vegetative Growth,Relative_Humidity_pct,925,57.8,63.2,67.5
+Spinach,Vegetative Growth,PPFD_umol_m2_s,925,223.0,251.0,282.0
+Spinach,Vegetative Growth,DLI_mol_m2_day,925,11.2,12.7,14.2
+Spinach,Vegetative Growth,Photoperiod_h,925,14.0,14.0,14.0
+Spinach,Vegetative Growth,CO2_ppm,925,414.0,441.0,598.0
+Spinach,Vegetative Growth,Root_Zone_Temp_C,925,15.8,17.2,19.0
+Spinach,Vegetative Growth,N_mg_L,925,123.1,140.8,158.3
+Spinach,Vegetative Growth,P_mg_L,925,33.1,37.6,42.4
+Spinach,Vegetative Growth,K_mg_L,925,165.4,187.2,211.5
+Spinach,Vegetative Growth,Ca_mg_L,925,123.9,140.8,159.1
+Spinach,Vegetative Growth,Mg_mg_L,925,37.3,42.3,47.6
+Strawberry,Flowering,pH,211,5.65,5.92,6.06
+Strawberry,Flowering,EC_mS_cm,211,1.12,1.32,1.55
+Strawberry,Flowering,TDS_ppm,211,559.0,659.0,776.0
+Strawberry,Flowering,Water_Temp_C,211,16.85,18.5,21.05
+Strawberry,Flowering,Air_Temp_C,211,18.8,20.6,22.4
+Strawberry,Flowering,Relative_Humidity_pct,211,62.85,67.3,72.6
+Strawberry,Flowering,PPFD_umol_m2_s,211,332.0,364.0,410.0
+Strawberry,Flowering,DLI_mol_m2_day,211,16.8,18.3,21.05
+Strawberry,Flowering,Photoperiod_h,211,14.0,14.0,14.0
+Strawberry,Flowering,CO2_ppm,211,419.0,440.0,621.5
+Strawberry,Flowering,Root_Zone_Temp_C,211,16.65,18.5,20.65
+Strawberry,Flowering,N_mg_L,211,79.1,93.8,109.9
+Strawberry,Flowering,P_mg_L,211,24.9,29.7,34.75
+Strawberry,Flowering,K_mg_L,211,168.95,199.6,233.9
+Strawberry,Flowering,Ca_mg_L,211,93.7,111.4,128.75
+Strawberry,Flowering,Mg_mg_L,211,27.45,33.4,39.15
+Strawberry,Fruiting,pH,466,5.69,5.92,6.12
+Strawberry,Fruiting,EC_mS_cm,466,1.11,1.32,1.56
+Strawberry,Fruiting,TDS_ppm,466,557.0,657.5,782.5
+Strawberry,Fruiting,Water_Temp_C,466,16.8,18.6,21.3
+Strawberry,Fruiting,Air_Temp_C,466,18.4,20.5,22.6
+Strawberry,Fruiting,Relative_Humidity_pct,466,62.8,67.4,73.18
+Strawberry,Fruiting,PPFD_umol_m2_s,466,327.0,365.0,417.0
+Strawberry,Fruiting,DLI_mol_m2_day,466,16.6,18.4,21.2
+Strawberry,Fruiting,Photoperiod_h,466,14.0,14.0,14.0
+Strawberry,Fruiting,CO2_ppm,466,418.25,440.0,623.0
+Strawberry,Fruiting,Root_Zone_Temp_C,466,16.32,18.1,20.7
+Strawberry,Fruiting,N_mg_L,466,78.45,93.75,111.62
+Strawberry,Fruiting,P_mg_L,466,24.7,29.6,35.1
+Strawberry,Fruiting,K_mg_L,466,167.77,199.5,233.98
+Strawberry,Fruiting,Ca_mg_L,466,92.4,110.1,131.57
+Strawberry,Fruiting,Mg_mg_L,466,28.22,33.4,39.2
+Strawberry,Germination,pH,96,5.68,5.91,6.08
+Strawberry,Germination,EC_mS_cm,96,0.56,0.68,0.79
+Strawberry,Germination,TDS_ppm,96,282.0,341.5,395.75
+Strawberry,Germination,Water_Temp_C,96,16.6,18.6,21.1
+Strawberry,Germination,Air_Temp_C,96,18.77,20.6,22.5
+Strawberry,Germination,Relative_Humidity_pct,96,62.45,67.6,72.5
+Strawberry,Germination,PPFD_umol_m2_s,96,333.0,364.5,417.0
+Strawberry,Germination,DLI_mol_m2_day,96,16.88,18.35,21.1
+Strawberry,Germination,Photoperiod_h,96,14.0,14.0,14.0
+Strawberry,Germination,CO2_ppm,96,420.5,443.5,624.75
+Strawberry,Germination,Root_Zone_Temp_C,96,16.6,18.15,20.75
+Strawberry,Germination,N_mg_L,96,48.02,56.1,64.72
+Strawberry,Germination,P_mg_L,96,12.78,15.15,17.7
+Strawberry,Germination,K_mg_L,96,62.55,75.45,89.1
+Strawberry,Germination,Ca_mg_L,96,48.38,54.85,66.12
+Strawberry,Germination,Mg_mg_L,96,14.78,16.7,19.9
+Strawberry,Harvest,pH,97,5.71,5.92,6.07
+Strawberry,Harvest,EC_mS_cm,97,1.14,1.32,1.56
+Strawberry,Harvest,TDS_ppm,97,568.0,658.0,781.0
+Strawberry,Harvest,Water_Temp_C,97,16.8,18.7,21.2
+Strawberry,Harvest,Air_Temp_C,97,18.9,20.7,22.6
+Strawberry,Harvest,Relative_Humidity_pct,97,62.8,67.8,72.4
+Strawberry,Harvest,PPFD_umol_m2_s,97,330.0,364.0,417.0
+Strawberry,Harvest,DLI_mol_m2_day,97,16.8,18.3,21.1
+Strawberry,Harvest,Photoperiod_h,97,14.0,14.0,14.0
+Strawberry,Harvest,CO2_ppm,97,421.0,447.0,623.0
+Strawberry,Harvest,Root_Zone_Temp_C,97,16.3,18.2,20.4
+Strawberry,Harvest,N_mg_L,97,92.3,109.4,130.6
+Strawberry,Harvest,P_mg_L,97,25.4,29.2,34.4
+Strawberry,Harvest,K_mg_L,97,127.1,147.2,176.0
+Strawberry,Harvest,Ca_mg_L,97,90.4,108.6,129.8
+Strawberry,Harvest,Mg_mg_L,97,28.7,33.9,38.7
+Strawberry,Maturation,pH,184,5.68,5.91,6.08
+Strawberry,Maturation,EC_mS_cm,184,1.13,1.32,1.56
+Strawberry,Maturation,TDS_ppm,184,565.0,658.5,778.5
+Strawberry,Maturation,Water_Temp_C,184,16.8,18.5,21.2
+Strawberry,Maturation,Air_Temp_C,184,18.68,20.6,22.5
+Strawberry,Maturation,Relative_Humidity_pct,184,62.98,67.35,72.55
+Strawberry,Maturation,PPFD_umol_m2_s,184,334.0,368.0,417.0
+Strawberry,Maturation,DLI_mol_m2_day,184,16.9,18.6,21.12
+Strawberry,Maturation,Photoperiod_h,184,14.0,14.0,14.0
+Strawberry,Maturation,CO2_ppm,184,418.75,447.5,624.75
+Strawberry,Maturation,Root_Zone_Temp_C,184,16.6,18.4,20.62
+Strawberry,Maturation,N_mg_L,184,93.25,109.0,129.52
+Strawberry,Maturation,P_mg_L,184,25.08,29.2,34.3
+Strawberry,Maturation,K_mg_L,184,125.3,147.4,176.6
+Strawberry,Maturation,Ca_mg_L,184,93.7,108.8,131.5
+Strawberry,Maturation,Mg_mg_L,184,27.65,33.25,38.42
+Strawberry,Seedling,pH,293,5.69,5.92,6.07
+Strawberry,Seedling,EC_mS_cm,293,0.78,0.93,1.1
+Strawberry,Seedling,TDS_ppm,293,390.0,464.0,548.0
+Strawberry,Seedling,Water_Temp_C,293,16.7,18.6,21.2
+Strawberry,Seedling,Air_Temp_C,293,18.7,20.6,22.7
+Strawberry,Seedling,Relative_Humidity_pct,293,62.9,67.5,72.1
+Strawberry,Seedling,PPFD_umol_m2_s,293,327.0,364.0,417.0
+Strawberry,Seedling,DLI_mol_m2_day,293,16.6,18.3,21.1
+Strawberry,Seedling,Photoperiod_h,293,14.0,14.0,14.0
+Strawberry,Seedling,CO2_ppm,293,419.0,447.0,623.0
+Strawberry,Seedling,Root_Zone_Temp_C,293,16.5,18.3,20.5
+Strawberry,Seedling,N_mg_L,293,64.9,77.9,91.2
+Strawberry,Seedling,P_mg_L,293,17.6,20.7,24.7
+Strawberry,Seedling,K_mg_L,293,87.2,102.8,122.5
+Strawberry,Seedling,Ca_mg_L,293,64.3,77.6,90.2
+Strawberry,Seedling,Mg_mg_L,293,19.5,23.3,27.4
+Strawberry,Vegetative Growth,pH,343,5.69,5.91,6.11
+Strawberry,Vegetative Growth,EC_mS_cm,343,1.11,1.34,1.57
+Strawberry,Vegetative Growth,TDS_ppm,343,557.0,668.0,783.5
+Strawberry,Vegetative Growth,Water_Temp_C,343,16.75,18.8,21.3
+Strawberry,Vegetative Growth,Air_Temp_C,343,18.55,20.5,22.6
+Strawberry,Vegetative Growth,Relative_Humidity_pct,343,62.45,67.8,72.85
+Strawberry,Vegetative Growth,PPFD_umol_m2_s,343,328.5,365.0,417.0
+Strawberry,Vegetative Growth,DLI_mol_m2_day,343,16.8,18.4,21.2
+Strawberry,Vegetative Growth,Photoperiod_h,343,14.0,14.0,14.0
+Strawberry,Vegetative Growth,CO2_ppm,343,421.0,441.0,623.0
+Strawberry,Vegetative Growth,Root_Zone_Temp_C,343,16.4,18.1,20.7
+Strawberry,Vegetative Growth,N_mg_L,343,93.8,110.4,131.15
+Strawberry,Vegetative Growth,P_mg_L,343,24.8,29.7,35.1
+Strawberry,Vegetative Growth,K_mg_L,343,123.45,148.2,173.9
+Strawberry,Vegetative Growth,Ca_mg_L,343,93.55,110.2,130.85
+Strawberry,Vegetative Growth,Mg_mg_L,343,27.95,33.1,39.5
+Swiss Chard,Germination,pH,114,5.87,6.12,6.36
+Swiss Chard,Germination,EC_mS_cm,114,0.92,1.02,1.11
+Swiss Chard,Germination,TDS_ppm,114,462.0,510.5,554.75
+Swiss Chard,Germination,Water_Temp_C,114,18.55,19.9,21.4
+Swiss Chard,Germination,Air_Temp_C,114,17.15,19.7,22.1
+Swiss Chard,Germination,Relative_Humidity_pct,114,56.5,62.5,67.7
+Swiss Chard,Germination,PPFD_umol_m2_s,114,225.0,250.5,278.75
+Swiss Chard,Germination,DLI_mol_m2_day,114,12.82,14.4,15.8
+Swiss Chard,Germination,Photoperiod_h,114,16.0,16.0,16.0
+Swiss Chard,Germination,CO2_ppm,114,414.5,441.0,710.75
+Swiss Chard,Germination,Root_Zone_Temp_C,114,18.52,19.95,21.5
+Swiss Chard,Germination,N_mg_L,114,76.25,84.7,92.88
+Swiss Chard,Germination,P_mg_L,114,20.7,22.6,25.08
+Swiss Chard,Germination,K_mg_L,114,103.7,111.5,123.3
+Swiss Chard,Germination,Ca_mg_L,114,76.38,83.9,92.62
+Swiss Chard,Germination,Mg_mg_L,114,22.65,25.0,27.35
+Swiss Chard,Harvest,pH,112,5.88,6.13,6.38
+Swiss Chard,Harvest,EC_mS_cm,112,1.85,2.05,2.23
+Swiss Chard,Harvest,TDS_ppm,112,927.5,1023.5,1112.75
+Swiss Chard,Harvest,Water_Temp_C,112,18.7,19.9,21.4
+Swiss Chard,Harvest,Air_Temp_C,112,17.38,19.65,22.12
+Swiss Chard,Harvest,Relative_Humidity_pct,112,57.32,62.2,67.35
+Swiss Chard,Harvest,PPFD_umol_m2_s,112,224.0,250.0,275.75
+Swiss Chard,Harvest,DLI_mol_m2_day,112,12.78,14.35,15.72
+Swiss Chard,Harvest,Photoperiod_h,112,16.0,16.0,16.0
+Swiss Chard,Harvest,CO2_ppm,112,413.5,441.0,664.0
+Swiss Chard,Harvest,Root_Zone_Temp_C,112,18.7,19.95,21.3
+Swiss Chard,Harvest,N_mg_L,112,156.35,169.25,183.5
+Swiss Chard,Harvest,P_mg_L,112,40.88,45.35,49.85
+Swiss Chard,Harvest,K_mg_L,112,205.55,221.7,247.85
+Swiss Chard,Harvest,Ca_mg_L,112,153.85,169.0,186.88
+Swiss Chard,Harvest,Mg_mg_L,112,46.2,50.7,55.2
+Swiss Chard,Maturation,pH,328,5.87,6.12,6.35
+Swiss Chard,Maturation,EC_mS_cm,328,1.86,2.05,2.22
+Swiss Chard,Maturation,TDS_ppm,328,932.0,1025.0,1108.0
+Swiss Chard,Maturation,Water_Temp_C,328,18.7,20.0,21.4
+Swiss Chard,Maturation,Air_Temp_C,328,17.1,19.75,22.0
+Swiss Chard,Maturation,Relative_Humidity_pct,328,56.8,62.45,66.7
+Swiss Chard,Maturation,PPFD_umol_m2_s,328,225.0,251.0,279.25
+Swiss Chard,Maturation,DLI_mol_m2_day,328,12.8,14.4,16.0
+Swiss Chard,Maturation,Photoperiod_h,328,16.0,16.0,16.0
+Swiss Chard,Maturation,CO2_ppm,328,413.5,441.0,656.25
+Swiss Chard,Maturation,Root_Zone_Temp_C,328,18.7,20.1,21.3
+Swiss Chard,Maturation,N_mg_L,328,153.75,170.5,186.42
+Swiss Chard,Maturation,P_mg_L,328,41.2,45.2,49.5
+Swiss Chard,Maturation,K_mg_L,328,205.25,225.65,246.5
+Swiss Chard,Maturation,Ca_mg_L,328,155.57,169.05,184.05
+Swiss Chard,Maturation,Mg_mg_L,328,46.5,50.8,55.6
+Swiss Chard,Seedling,pH,384,5.89,6.11,6.36
+Swiss Chard,Seedling,EC_mS_cm,384,1.31,1.42,1.55
+Swiss Chard,Seedling,TDS_ppm,384,656.0,710.5,774.0
+Swiss Chard,Seedling,Water_Temp_C,384,18.7,19.95,21.3
+Swiss Chard,Seedling,Air_Temp_C,384,17.5,19.7,22.0
+Swiss Chard,Seedling,Relative_Humidity_pct,384,56.88,63.0,67.22
+Swiss Chard,Seedling,PPFD_umol_m2_s,384,226.0,251.0,275.75
+Swiss Chard,Seedling,DLI_mol_m2_day,384,13.0,14.4,15.8
+Swiss Chard,Seedling,Photoperiod_h,384,16.0,16.0,16.0
+Swiss Chard,Seedling,CO2_ppm,384,414.0,441.0,745.75
+Swiss Chard,Seedling,Root_Zone_Temp_C,384,18.77,19.9,21.22
+Swiss Chard,Seedling,N_mg_L,384,108.38,117.95,127.98
+Swiss Chard,Seedling,P_mg_L,384,28.78,31.35,34.2
+Swiss Chard,Seedling,K_mg_L,384,143.55,157.2,170.92
+Swiss Chard,Seedling,Ca_mg_L,384,109.5,118.6,128.83
+Swiss Chard,Seedling,Mg_mg_L,384,32.8,35.45,38.5
+Swiss Chard,Vegetative Growth,pH,979,5.89,6.11,6.35
+Swiss Chard,Vegetative Growth,EC_mS_cm,979,1.86,2.04,2.21
+Swiss Chard,Vegetative Growth,TDS_ppm,979,931.0,1018.0,1106.0
+Swiss Chard,Vegetative Growth,Water_Temp_C,979,18.7,20.0,21.3
+Swiss Chard,Vegetative Growth,Air_Temp_C,979,17.3,19.6,22.1
+Swiss Chard,Vegetative Growth,Relative_Humidity_pct,979,57.0,62.4,67.3
+Swiss Chard,Vegetative Growth,PPFD_umol_m2_s,979,225.0,251.0,278.0
+Swiss Chard,Vegetative Growth,DLI_mol_m2_day,979,12.9,14.4,15.8
+Swiss Chard,Vegetative Growth,Photoperiod_h,979,16.0,16.0,16.0
+Swiss Chard,Vegetative Growth,CO2_ppm,979,414.0,441.0,753.5
+Swiss Chard,Vegetative Growth,Root_Zone_Temp_C,979,18.7,19.9,21.3
+Swiss Chard,Vegetative Growth,N_mg_L,979,155.05,169.4,184.75
+Swiss Chard,Vegetative Growth,P_mg_L,979,41.1,44.7,48.9
+Swiss Chard,Vegetative Growth,K_mg_L,979,205.3,224.7,244.4
+Swiss Chard,Vegetative Growth,Ca_mg_L,979,154.7,167.8,185.05
+Swiss Chard,Vegetative Growth,Mg_mg_L,979,46.4,50.5,55.45
+Tomato,Flowering,pH,198,5.88,6.04,6.22
+Tomato,Flowering,EC_mS_cm,198,2.23,2.86,3.41
+Tomato,Flowering,TDS_ppm,198,1114.5,1429.0,1703.0
+Tomato,Flowering,Water_Temp_C,198,18.62,20.1,21.3
+Tomato,Flowering,Air_Temp_C,198,21.7,23.45,25.2
+Tomato,Flowering,Relative_Humidity_pct,198,62.02,67.85,73.38
+Tomato,Flowering,PPFD_umol_m2_s,198,399.25,456.5,501.0
+Tomato,Flowering,DLI_mol_m2_day,198,23.0,26.5,29.2
+Tomato,Flowering,Photoperiod_h,198,16.0,16.0,16.0
+Tomato,Flowering,CO2_ppm,198,413.0,438.0,617.0
+Tomato,Flowering,Root_Zone_Temp_C,198,18.7,20.65,21.98
+Tomato,Flowering,N_mg_L,198,158.48,202.65,240.8
+Tomato,Flowering,P_mg_L,198,49.4,63.05,73.15
+Tomato,Flowering,K_mg_L,198,336.92,430.05,503.05
+Tomato,Flowering,Ca_mg_L,198,183.68,234.9,277.18
+Tomato,Flowering,Mg_mg_L,198,56.1,71.55,84.25
+Tomato,Fruiting,pH,478,5.9,6.06,6.24
+Tomato,Fruiting,EC_mS_cm,478,2.23,2.86,3.39
+Tomato,Fruiting,TDS_ppm,478,1114.0,1430.0,1694.5
+Tomato,Fruiting,Water_Temp_C,478,18.7,20.1,21.2
+Tomato,Fruiting,Air_Temp_C,478,21.5,23.5,25.2
+Tomato,Fruiting,Relative_Humidity_pct,478,62.0,67.5,73.5
+Tomato,Fruiting,PPFD_umol_m2_s,478,399.0,454.0,500.0
+Tomato,Fruiting,DLI_mol_m2_day,478,23.0,26.3,29.2
+Tomato,Fruiting,Photoperiod_h,478,16.0,16.0,16.0
+Tomato,Fruiting,CO2_ppm,478,413.0,438.0,617.0
+Tomato,Fruiting,Root_Zone_Temp_C,478,19.1,20.6,21.9
+Tomato,Fruiting,N_mg_L,478,157.4,202.45,238.98
+Tomato,Fruiting,P_mg_L,478,49.1,62.45,72.68
+Tomato,Fruiting,K_mg_L,478,333.52,428.6,503.5
+Tomato,Fruiting,Ca_mg_L,478,183.65,232.75,277.58
+Tomato,Fruiting,Mg_mg_L,478,55.92,70.8,84.05
+Tomato,Germination,pH,99,5.92,6.08,6.24
+Tomato,Germination,EC_mS_cm,99,1.1,1.44,1.69
+Tomato,Germination,TDS_ppm,99,550.0,720.0,847.0
+Tomato,Germination,Water_Temp_C,99,18.6,20.1,21.4
+Tomato,Germination,Air_Temp_C,99,21.3,23.6,25.15
+Tomato,Germination,Relative_Humidity_pct,99,62.45,68.0,73.05
+Tomato,Germination,PPFD_umol_m2_s,99,399.5,454.0,499.0
+Tomato,Germination,DLI_mol_m2_day,99,23.0,26.1,29.1
+Tomato,Germination,Photoperiod_h,99,16.0,16.0,16.0
+Tomato,Germination,CO2_ppm,99,413.0,438.0,617.0
+Tomato,Germination,Root_Zone_Temp_C,99,19.0,20.4,21.6
+Tomato,Germination,N_mg_L,99,92.3,117.2,143.6
+Tomato,Germination,P_mg_L,99,24.35,30.8,37.45
+Tomato,Germination,K_mg_L,99,125.35,157.2,187.1
+Tomato,Germination,Ca_mg_L,99,92.0,116.8,137.05
+Tomato,Germination,Mg_mg_L,99,27.2,35.3,41.2
+Tomato,Harvest,pH,98,5.88,6.06,6.24
+Tomato,Harvest,EC_mS_cm,98,2.26,2.9,3.42
+Tomato,Harvest,TDS_ppm,98,1130.25,1449.5,1710.25
+Tomato,Harvest,Water_Temp_C,98,18.8,20.1,21.3
+Tomato,Harvest,Air_Temp_C,98,21.62,23.4,25.08
+Tomato,Harvest,Relative_Humidity_pct,98,62.62,68.9,74.05
+Tomato,Harvest,PPFD_umol_m2_s,98,399.25,450.0,500.75
+Tomato,Harvest,DLI_mol_m2_day,98,23.0,26.3,29.15
+Tomato,Harvest,Photoperiod_h,98,16.0,16.0,16.0
+Tomato,Harvest,CO2_ppm,98,413.0,438.0,616.75
+Tomato,Harvest,Root_Zone_Temp_C,98,19.12,20.7,21.88
+Tomato,Harvest,N_mg_L,98,184.18,236.65,278.52
+Tomato,Harvest,P_mg_L,98,49.25,62.0,74.23
+Tomato,Harvest,K_mg_L,98,253.38,319.75,378.58
+Tomato,Harvest,Ca_mg_L,98,182.65,230.15,277.88
+Tomato,Harvest,Mg_mg_L,98,56.1,70.9,82.98
+Tomato,Maturation,pH,164,5.89,6.08,6.25
+Tomato,Maturation,EC_mS_cm,164,2.21,2.85,3.4
+Tomato,Maturation,TDS_ppm,164,1106.5,1423.5,1701.75
+Tomato,Maturation,Water_Temp_C,164,18.6,20.2,21.22
+Tomato,Maturation,Air_Temp_C,164,21.5,23.35,25.1
+Tomato,Maturation,Relative_Humidity_pct,164,61.6,67.4,74.53
+Tomato,Maturation,PPFD_umol_m2_s,164,403.0,467.5,507.25
+Tomato,Maturation,DLI_mol_m2_day,164,23.2,27.0,29.62
+Tomato,Maturation,Photoperiod_h,164,16.0,16.0,16.0
+Tomato,Maturation,CO2_ppm,164,413.75,438.0,652.5
+Tomato,Maturation,Root_Zone_Temp_C,164,19.1,20.6,21.8
+Tomato,Maturation,N_mg_L,164,181.98,236.1,285.4
+Tomato,Maturation,P_mg_L,164,47.8,61.85,74.42
+Tomato,Maturation,K_mg_L,164,251.22,315.2,383.88
+Tomato,Maturation,Ca_mg_L,164,181.38,229.3,279.65
+Tomato,Maturation,Mg_mg_L,164,55.0,70.2,84.9
+Tomato,Seedling,pH,293,5.89,6.07,6.25
+Tomato,Seedling,EC_mS_cm,293,1.57,1.99,2.36
+Tomato,Seedling,TDS_ppm,293,783.0,995.0,1181.0
+Tomato,Seedling,Water_Temp_C,293,18.7,20.1,21.3
+Tomato,Seedling,Air_Temp_C,293,21.3,23.5,25.1
+Tomato,Seedling,Relative_Humidity_pct,293,62.0,67.2,73.6
+Tomato,Seedling,PPFD_umol_m2_s,293,400.0,459.0,501.0
+Tomato,Seedling,DLI_mol_m2_day,293,23.0,26.5,29.2
+Tomato,Seedling,Photoperiod_h,293,16.0,16.0,16.0
+Tomato,Seedling,CO2_ppm,293,413.0,438.0,617.0
+Tomato,Seedling,Root_Zone_Temp_C,293,18.8,20.4,21.8
+Tomato,Seedling,N_mg_L,293,128.7,165.9,199.2
+Tomato,Seedling,P_mg_L,293,34.1,43.5,51.5
+Tomato,Seedling,K_mg_L,293,173.8,221.2,258.2
+Tomato,Seedling,Ca_mg_L,293,127.7,163.7,193.0
+Tomato,Seedling,Mg_mg_L,293,39.2,49.5,58.4
+Tomato,Vegetative Growth,pH,337,5.9,6.06,6.25
+Tomato,Vegetative Growth,EC_mS_cm,337,2.24,2.85,3.39
+Tomato,Vegetative Growth,TDS_ppm,337,1118.0,1426.0,1693.0
+Tomato,Vegetative Growth,Water_Temp_C,337,18.6,20.2,21.3
+Tomato,Vegetative Growth,Air_Temp_C,337,21.4,23.3,25.1
+Tomato,Vegetative Growth,Relative_Humidity_pct,337,61.9,67.6,73.5
+Tomato,Vegetative Growth,PPFD_umol_m2_s,337,400.0,454.0,501.0
+Tomato,Vegetative Growth,DLI_mol_m2_day,337,23.0,26.5,29.2
+Tomato,Vegetative Growth,Photoperiod_h,337,16.0,16.0,16.0
+Tomato,Vegetative Growth,CO2_ppm,337,413.0,438.0,617.0
+Tomato,Vegetative Growth,Root_Zone_Temp_C,337,18.8,20.3,21.7
+Tomato,Vegetative Growth,N_mg_L,337,187.4,237.8,281.8
+Tomato,Vegetative Growth,P_mg_L,337,48.6,61.2,74.3
+Tomato,Vegetative Growth,K_mg_L,337,250.8,315.5,371.2
+Tomato,Vegetative Growth,Ca_mg_L,337,182.5,232.8,279.8
+Tomato,Vegetative Growth,Mg_mg_L,337,55.6,70.0,84.2
